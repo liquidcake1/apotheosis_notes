@@ -249,7 +249,6 @@ Done:
         For those who do not seek true knowledge?
         But divine. Their corruption must
         be purified by the gods.
-
   * XIII: To gain true knowledge, one must remain pure and unintoxicated. (Virulent Caverns)
   * XIV: Attune with and home in on your goals (Attunium); Do so and your arrow shall move faster (Veloium). (Bottom of trench in west world.)
     * jumaluus rikkoi lait luonnon ja taikuuden, kääntäin heidän huomion jumaluuteenm kaaoksen keskellä jumaluus ei koskaan kääntänyt katsettaan suosikistaanm muiden huomaamatta, jumaluus lähestyi maailmaa ja antoi suosimalleen avaimenm lukko oli odottamassa ja maailma oli haavoittuvainen.
