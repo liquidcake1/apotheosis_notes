@@ -154,7 +154,9 @@ Fishing:
   * Tablet XIV: No.
   * The book from underneath: No.
 
-* New material: Hell Nectar. Drinking is says "you feel your body growing uncontrollably. It's addictive. You should stop before it's too late." 
+* New material: Hell Nectar. Drinking is says "you feel your body growing uncontrollably. It's addictive. You should stop before it's too late."
+
+* Two chunks down from the spirits essence and then right is a "deathly chest" and portal.
 
 Done:
 
