@@ -29,6 +29,7 @@
   * Letter (Note Spell? Greek?)
     * Mu -> Kappa (Alt Fire)
     * Phi -> Kappa (Alt Fire)
+    * Zeta -> Kappa
   * Lifetime (Add/Reduce Lifetime?) -- Swaps
 * Also:
   * Tele <-> Alt Fire Tele
