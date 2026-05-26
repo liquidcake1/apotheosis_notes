@@ -234,7 +234,7 @@ Done:
 * The coral chest is moved one chunk left and is now directly up from halfway down the right side of the pyramid, surrounded by cloudscape.
 
 * Reforged tablets:
-  * XI: Evolution is forever, changing. (Corrupted Mages.)
+  * XI: Evolution is forever, changing. (Corrupted Mages.) (Red Sand)
     *   Monen vuosisadan kujittua vesilintu palasi ja
         Muni yhden munan.
         Monta päivää ja yötä vierähti, ennen kuin
@@ -249,7 +249,7 @@ Done:
         For those who do not seek true knowledge?
         But divine. Their corruption must
         be purified by the gods.
-  * XIII: To gain true knowledge, one must remain pure and unintoxicated. (Virulent Caverns)
+  * XIII: To gain true knowledge, one must remain pure and unintoxicated. (Virulent Caverns)  (Water)
     * jumaluus näki tietyt luomukset muita tärkeämpinä ja kieroutti luontoa avittaakseen suosikkejaan. niille, jotka eivät etsi totista tietämystä, vaan jumalallista. heidän täytyy tarjota loputtoman rikka uden lähdettä ja portti heää henkiin.
     * The deity saw certain creatures as more important than others and twisted nature to benefit his favorites. To those who seek not true knowledge, but divine. they must offer a source of infinite wealth and a gateway to the soul.
   * XIV: Attune with and home in on your goals (Attunium); Do so and your arrow shall move faster (Veloium). (Bottom of trench in west world.)
