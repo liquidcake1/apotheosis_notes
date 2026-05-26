@@ -245,7 +245,7 @@ Done:
     *   After many centuries, the waterfowl returned and
         Laid one egg.
         Many days and nights passed before
-        a divinity hatched from the egg.
+        a divinity hatched from the egg. (CopiHuman: scrap "a")
         For those who do not seek true knowledge?
         But divine. Their corruption must
         be purified by the gods.
