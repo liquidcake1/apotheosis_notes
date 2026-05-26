@@ -235,6 +235,21 @@ Done:
 
 * Reforged tablets:
   * XI: Evolution is forever, changing. (Corrupted Mages.)
+    *   Monen vuosisadan kujittua vesilintu palasi ja
+        Muni yhden munan.
+        Monta päivää ja yötä vierähti, ennen kuin
+        munasta kuoriutui jumaluus.
+        Niille, jotka eivät etsi totista tietämistä?
+        Vaan jumalallista. Heidään karruptio täytyy
+        olla jumalten puhoistamam.
+    *   After many centuries, the waterfowl returned and
+        Laid one egg.
+        Many days and nights passed before
+        a divinity hatched from the egg.
+        For those who do not seek true knowledge?
+        But divine. Their corruption must
+        be the work of the gods.
+
   * XIII: To gain true knowledge, one must remain pure and unintoxicated. (Virulent Caverns)
   * XIV: Attune with and home in on your goals (Attunium); Do so and your arrow shall move faster (Veloium). (Bottom of trench in west world.)
     * jumaluus rikkoi lait luonnon ja taikuuden, kääntäin heidän huomion jumaluuteenm kaaoksen keskellä jumaluus ei koskaan kääntänyt katsettaan suosikistaanm muiden huomaamatta, jumaluus lähestyi maailmaa ja antoi suosimalleen avaimenm lukko oli odottamassa ja maailma oli haavoittuvainen.
