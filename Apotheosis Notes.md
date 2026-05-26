@@ -241,14 +241,14 @@ Done:
         munasta kuoriutui jumaluus.
         Niille, jotka eivät etsi totista tietämistä?
         Vaan jumalallista. Heidään karruptio täytyy
-        olla jumalten puhoistamam.
+        olla jumalten puhdistama.
     *   After many centuries, the waterfowl returned and
         Laid one egg.
         Many days and nights passed before
         a divinity hatched from the egg.
         For those who do not seek true knowledge?
         But divine. Their corruption must
-        be the work of the gods.
+        be purified by the gods.
 
   * XIII: To gain true knowledge, one must remain pure and unintoxicated. (Virulent Caverns)
   * XIV: Attune with and home in on your goals (Attunium); Do so and your arrow shall move faster (Veloium). (Bottom of trench in west world.)
