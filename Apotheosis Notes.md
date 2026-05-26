@@ -152,7 +152,9 @@ Fishing:
   * Edit stone: No.
   * Crystal key: No.
   * Tablet XIV: No.
-  * The book from underneath: No. 
+  * The book from underneath: No.
+
+* New material: Hell Nectar. Drinking is says "you feel your body growing uncontrollably. It's addictive. You should stop before it's too late." 
 
 Done:
 
