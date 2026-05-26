@@ -151,7 +151,8 @@ Fishing:
   * Potion of water: No.
   * Edit stone: No.
   * Crystal key: No.
-  * Tablet XIV: No. 
+  * Tablet XIV: No.
+  * The book from underneath: No. 
 
 Done:
 
