@@ -35,6 +35,7 @@
   * Tele <-> Alt Fire Tele
   * Musical Strike -> with Trigger
   * Bouncing Burst -> with Death Trigger
+  * CoV <-> CoV (nothing)
 
 * In the Dragon Cave is a book which implies "materia conversion" can be used on spells as well as the expected solid matter.
 
