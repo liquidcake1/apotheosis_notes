@@ -141,6 +141,8 @@ Fishing:
 * New material: Hell Nectar. Drinking is says "you feel your body growing uncontrollably. It's addictive. You should stop before it's too late."
 
 * Two chunks down from the spirits essence and then right is a "deathly chest" and portal (to Kolmi's holy mountain?).
+  * It contains Omega Death Cross.
+  * How were we meant to get here???
 
 * A couple of chunks to the right of the music box is a strange apparent picture of a person with their arms up in the snow formation. ??????
 
