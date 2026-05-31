@@ -192,6 +192,8 @@ Fishing:
     * The deity rose from its egg and joined the company of the other gods. It imbued the creations of nature and technology with its favor.
       For those who seek not true knowledge, but the divine. It is not fitting for them to wander in lands where our salt is not found.
 
+    * THEORY: We must not enter a parallel world. ??????
+
   * XIII: To gain true knowledge, one must remain pure and unintoxicated. (Virulent Caverns)  (Water)
     * jumaluus näki tietyt luomukset muita tärkeämpinä ja kieroutti luontoa avittaakseen suosikkejaan. niille, jotka eivät etsi totista tietämystä, vaan jumalallista. heidän täytyy tarjota loputtoman rikka uden lähdettä ja portti heää henkiin.
     * The deity saw certain creatures as more important than others and twisted nature to benefit his favorites.
