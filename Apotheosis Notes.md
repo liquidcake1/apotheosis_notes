@@ -91,16 +91,7 @@ Fishing:
 * The rod cannot be reforged. Probably.
 * TODO: Investigate again under grave now we found fishing rod?
 
-* At the bottom of the lake, west of leviathan, there is the Sunken Cavern.
-  * There are two scary new mages here:
-    * One converts the held wand into a taikasauva.
-    * One applies a hex which seems to do 20% damage per second (ish?) while wet(?).
-  * There is an orb of Vulnerability Hex - Water.
-  * There is a music note stand thing with:
-    * D D E E
-    * D# D# E E (Invisibilium)
-  * Water stones seem to be able to naturally spawn here.
-  * Clam Chests spawn here. (And give pearls, which seem to just be pink gold.)
+* TODO: Sacrifice a clam chest at the mountain altar.
 
 * Under the earth essence is the runic text "GENEROUS?" and a Koditonhiisi, though a_bob claimed they had a Varashiisi.
   * abob says the the Koditonhiisi translates to "homeless hiisi" and Varashiisi translates to "thief hiisi".
@@ -204,6 +195,17 @@ Fishing:
 * There are new giga worms in hell with 625,000 HP and projectile immunity.
 
 Done:
+
+* At the bottom of the lake, west of leviathan, there is the Sunken Cavern.
+  * There are two scary new mages here:
+    * One converts the held wand into a taikasauva.
+    * One applies a hex which seems to do 20% damage per second (ish?) while wet(?).
+  * There is an orb of Vulnerability Hex - Water.
+  * There is a music note stand thing with:
+    * D D E E
+    * D# D# E E (Invisibilium)
+  * Water stones seem to be able to naturally spawn here.
+  * Clam Chests spawn here. (And give pearls, which seem to just be pink gold.)
 
 * Under the worm boss in the Coal Pits is some scrawled text in the background behind the toxic rock:
   * Do You See Musical stones in the sand?
