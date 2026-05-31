@@ -107,6 +107,7 @@ Fishing:
   * Giving him gold returns 3 spells and he becomes a "rich hiisi" and becomes aggressive.
 
 * Under the gold room, there is a small cave with the Runestone of Alchemy. Which I promptly lost without discovering its purpose.
+  * It causes local fungal shifts.
 
 * Directly down from here in a sandcave was The Temple of Sacreligious Remains. At the bottom is an anvil with repeating runic text "THE STONES". Above the anvil is a framed picture of a stone(?) with a plus covering it/crossing it out and some implication of aura/explosion.
   * Above this is the runic text:
