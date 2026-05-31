@@ -20,27 +20,6 @@ Test.
   * BBBB
   * DDDD (Poem of Seville: Cast Delay/Recharge Time is reduced on all wands for 5 minutes)
 
-* In the hourglass room, there is a book. It says "Conversion", and asks to remember the words:
-  * Fungus (Fungal Shift) -- Hyper Fungal Shift
-  * Worm (Worm Launcher/Matosade?) -- NOT worm launcher.
-  * Rat (Bite spell?) -- Bite -> Bloody Bite
-  * Spark (... Spark spell?) -- Spark Bolt -> Spark Bolt With Trigger
-  * Mass (Mass ... spell? Mass Materia Conversion?)
-    * Mass Polymorph -> Mass Chaotic Polymorph
-    * Mass Water / Mass Jarate -> Mass Infiltration
-  * Letter (Note Spell? Greek?)
-    * Mu -> Kappa (Alt Fire)
-    * Phi -> Kappa (Alt Fire)
-    * Zeta -> Kappa
-  * Lifetime (Add/Reduce Lifetime?) -- Swaps
-* Also:
-  * Tele <-> Alt Fire Tele
-  * Musical Strike -> with Trigger
-  * Bouncing Burst -> with Death Trigger
-  * CoV <-> CoV (nothing)
-
-* In the Dragon Cave is a book which implies "materia conversion" can be used on spells as well as the expected solid matter.
-
 * To the right of the Dragon Cave, rather than Levi portal room there was some muddy abyss, with ant lair above and lava core up-right.
   * Killing an ant in the middle of the ant lair dropped a full health regen. The ant did not appear special.
   * The lava core is full of worm blood instead of lava...?
@@ -216,6 +195,27 @@ Fishing:
     * THEORY: We must have the sun quest crown? Is this royal knowledge?!?!?
 
 Done:
+
+* In the Dragon Cave is a book which implies "materia conversion" can be used on spells as well as the expected solid matter.
+* In the hourglass room, there is a book. It says "Conversion", and asks to remember the words:
+  * Fungus (Fungal Shift) -- Hyper Fungal Shift
+  * Worm (Worm Launcher/Matosade?) -- NOT worm launcher.
+  * Rat (Bite spell?) -- Bite -> Bloody Bite
+  * Spark (... Spark spell?) -- Spark Bolt -> Spark Bolt With Trigger
+  * Mass (Mass ... spell? Mass Materia Conversion?)
+    * Mass Polymorph -> Mass Chaotic Polymorph
+    * Mass Water / Mass Jarate -> Mass Infiltration
+  * Letter (Note Spell? Greek?)
+    * Mu -> Kappa (Alt Fire)
+    * Phi -> Kappa (Alt Fire)
+    * Zeta -> Kappa
+  * Lifetime (Add/Reduce Lifetime?) -- Swaps
+* Also:
+  * Tele <-> Alt Fire Tele
+  * Musical Strike -> with Trigger
+  * Bouncing Burst -> with Death Trigger
+  * CoV <-> CoV (nothing)
+
 
 * Parallel Worlds:
   * There is a layer of Cursed Rock.
