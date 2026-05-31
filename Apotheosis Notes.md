@@ -23,8 +23,8 @@ Test.
 * In the hourglass room, there is a book. It says "Conversion", and asks to remember the words:
   * Fungus (Fungal Shift) -- Hyper Fungal Shift
   * Worm (Worm Launcher/Matosade?) -- NOT worm launcher.
-  * Rat (Bite spell?)
-  * Spark (... Spark spell?)
+  * Rat (Bite spell?) -- Bite -> Bloody Bite
+  * Spark (... Spark spell?) -- Spark Bolt -> Spark Bolt With Trigger
   * Mass (Mass ... spell? Mass Materia Conversion?)
     * Mass Polymorph -> Mass Chaotic Polymorph
     * Mass Water / Mass Jarate -> Mass Infiltration
