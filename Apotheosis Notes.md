@@ -140,7 +140,7 @@ Fishing:
 * New material: Hell Nectar. Drinking is says "you feel your body growing uncontrollably. It's addictive. You should stop before it's too late."
   * After about 300s of the status, you polymorph to egg.
   * Egg says things about "my flesh is now yours".
-  * Egg hatches.
+  * Egg hatches, spawning giga hell worms.
   * We die: "Hatching, while polymorphed to Egg 3 20 -33"
 
 * Two chunks down from the spirits essence and then right is a "deathly chest" and portal (to Kolmi's holy mountain?).
@@ -200,6 +200,8 @@ Fishing:
       for those who do not seek true knowledge, but the deitym they must bear royal knowledge for the true ascension, to avoid the destruction of their form
 
     * THEORY: We must have the sun quest crown? Is this royal knowledge?!?!?
+
+* There are new giga worms in hell with 625,000 HP and projectile immunity.
 
 Done:
 
