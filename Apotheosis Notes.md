@@ -253,6 +253,15 @@ Done:
         But divine. Their corruption must
         be purified by the gods.
   * XII: Bring your friends along when you travel.
+    * jumaluus nousi munastoon ja liittyi muiden      
+      jumalten seuraan. hän kyllästi luonnon ja       
+      teknologian luomukset mieltymyksellä.
+      
+      niille, jotka eivät etsi totista tietämystä,
+      vaan jumalallista. heidän ei sovi vaeltaa
+      maihin, missä meidän suola ei ole.
+    * The deity ascended to the heavens and joined the company of the other gods. He imbued the creations of nature and technology with his favor.
+      For those who seek not true knowledge, but the divine. It is not fitting for them to wander in lands where our salt is not found.
   * XIII: To gain true knowledge, one must remain pure and unintoxicated. (Virulent Caverns)  (Water)
     * jumaluus näki tietyt luomukset muita tärkeämpinä ja kieroutti luontoa avittaakseen suosikkejaan. niille, jotka eivät etsi totista tietämystä, vaan jumalallista. heidän täytyy tarjota loputtoman rikka uden lähdettä ja portti heää henkiin.
     * The deity saw certain creatures as more important than others and twisted nature to benefit his favorites. To those who seek not true knowledge, but divine. they must offer a source of infinite wealth and a gateway to the soul.
