@@ -250,6 +250,7 @@ Done:
         For those who do not seek true knowledge?
         But divine. Their corruption must
         be purified by the gods.
+  * XII: Bring your friends along when you travel.
   * XIII: To gain true knowledge, one must remain pure and unintoxicated. (Virulent Caverns)  (Water)
     * jumaluus näki tietyt luomukset muita tärkeämpinä ja kieroutti luontoa avittaakseen suosikkejaan. niille, jotka eivät etsi totista tietämystä, vaan jumalallista. heidän täytyy tarjota loputtoman rikka uden lähdettä ja portti heää henkiin.
     * The deity saw certain creatures as more important than others and twisted nature to benefit his favorites. To those who seek not true knowledge, but divine. they must offer a source of infinite wealth and a gateway to the soul.
