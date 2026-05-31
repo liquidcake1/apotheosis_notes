@@ -138,6 +138,10 @@ Fishing:
   * With some orbs (or maybe having travelled to a PW??) it gives the Learning Orb spell.
 
 * New material: Hell Nectar. Drinking is says "you feel your body growing uncontrollably. It's addictive. You should stop before it's too late."
+  * After about 300s of the status, you polymorph to egg.
+  * Egg says things about "my flesh is now yours".
+  * Egg hatches.
+  * We die: "Hatching, while polymorphed to Egg 3 20 -33"
 
 * Two chunks down from the spirits essence and then right is a "deathly chest" and portal (to Kolmi's holy mountain?).
   * It contains Omega Death Cross.
