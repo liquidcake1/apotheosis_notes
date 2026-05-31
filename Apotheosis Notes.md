@@ -253,7 +253,7 @@ Done:
         But divine. Their corruption must
         be purified by the gods.
   * XII: Bring your friends along when you travel.
-    * jumaluus nousi munastoon ja liittyi muiden      
+    * jumaluus nousi munastaan ja liittyi muiden      
       jumalten seuraan. hän kyllästi luonnon ja       
       teknologian luomukset mieltymyksellä.
       
