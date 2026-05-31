@@ -11,6 +11,10 @@ Test.
     Tales speak of the red fish coming to those who wait patiently at the water,
     but only if your palm holds the right blessing.
 
+* Above the pillars is a note altar with:
+  * A B C D
+  * A D E G
+
 * Then there is a structure with SLEEP written in glowing green runic text.
 
 * On the tunnel from Snowy to Lava Lake is a rat wand next to a room with fireflies and a picture of an unknown mage. Under, there is a second room which is (currently) empty.
