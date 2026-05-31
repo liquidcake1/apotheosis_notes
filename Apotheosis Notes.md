@@ -264,7 +264,8 @@ Done:
       For those who seek not true knowledge, but the divine. It is not fitting for them to wander in lands where our salt is not found.
   * XIII: To gain true knowledge, one must remain pure and unintoxicated. (Virulent Caverns)  (Water)
     * jumaluus näki tietyt luomukset muita tärkeämpinä ja kieroutti luontoa avittaakseen suosikkejaan. niille, jotka eivät etsi totista tietämystä, vaan jumalallista. heidän täytyy tarjota loputtoman rikka uden lähdettä ja portti heää henkiin.
-    * The deity saw certain creatures as more important than others and twisted nature to benefit his favorites. To those who seek not true knowledge, but divine. they must offer a source of infinite wealth and a gateway to the soul.
+    * The deity saw certain creatures as more important than others and twisted nature to benefit his favorites.
+      To those who seek not true knowledge, but divine. they must offer a source of infinite wealth and a gateway to the soul.
   * XIV: Attune with and home in on your goals (Attunium); Do so and your arrow shall move faster (Veloium). (Bottom of trench in west world.)
     * jumaluus rikkoi lait luonnon ja taikuuden, kääntäin heidän huomion jumaluuteenm kaaoksen keskellä jumaluus ei koskaan kääntänyt katsettaan suosikistaanm muiden huomaamatta, jumaluus lähestyi maailmaa ja antoi suosimalleen avaimenm lukko oli odottamassa ja maailma oli haavoittuvainen.
       The deity broke the laws of nature and magic, turning their attention to the deity. Amid the chaos, the deity never took their eyes off their favorite. Unnoticed by the others, the deity approached the world and gave their favorite a key. The lock was waiting, and the world was vulnerable.
