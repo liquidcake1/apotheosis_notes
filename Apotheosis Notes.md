@@ -14,7 +14,7 @@ Test.
 * Then there is a structure with SLEEP written in glowing green runic text.
 
 * On the tunnel from Snowy to Lava Lake is a rat wand next to a room with fireflies and a picture of an unknown mage. Under, there is a second room which is (currently) empty.
-  * Portalium over a long distance-ish teleport seems to have a high chance of despawning entities. It _WAS_ possible to go from East Magical Temple to the Lava Lake Boss Portal Room.
+  * Portalium over a long distance-ish teleport seems to have a high chance of despawning entities. It _WAS_ possible to go from East Magical Temple to the Lava Lake Boss Portal Room, but not from there to the tunnel.
 
 * There is an ant lair to the left of Hiisi Base. At the left side is a pedestal with a note on it. When shown the note item, it shows:
   * BBBB
