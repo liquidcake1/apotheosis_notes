@@ -14,6 +14,7 @@ Test.
 * Then there is a structure with SLEEP written in glowing green runic text.
 
 * On the tunnel from Snowy to Lava Lake is a rat wand next to a room with fireflies and a picture of an unknown mage. Under, there is a second room which is (currently) empty.
+  * Portalium over a long distance-ish teleport seems to have a high chance of despawning entities. It _WAS_ possible to go from East Magical Temple to the Lava Lake Boss Portal Room.
 
 * There is an ant lair to the left of Hiisi Base. At the left side is a pedestal with a note on it. When shown the note item, it shows:
   * BBBB
@@ -61,6 +62,7 @@ Test.
 
 * Adding a Volcanic Egg to a nest in Snowy sends us to Lava Mines(?).
   * There is a blank "pill" wand puzzle with a diamond in it and some lava at the bottom.
+    It takes lava and drops a wand (Korttipakka "Deck of Cards") with AC Wand Refresh
 
 * To the right of the Watchtower there is a new chasm full of super mages. At the bottom left ish is a Sinkhole tunnel to a mage den like area with an altar, which when we hold Kuulukivi shows:
   * B A2 F E
