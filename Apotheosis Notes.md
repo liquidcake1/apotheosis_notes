@@ -124,9 +124,6 @@ Fishing:
     * It appears to summon many, many corrupt masters, steal wands, chase fairly relentlessly, respawn at the player if the player continues to hold the KORRUPTOITUNUTKIVI, has a tonne of health and a tonne of projectile resistance. (Also probably electricity immunity?)
   * There is an orb room to the top left of where the boss is / above the anvil.
 
-* Under the worm boss in the Coal Pits is some scrawled text in the background behind the toxic rock:
-  * Do You See Musical stones in the sand?
-
 * Bugs:
   * Exploring a lot before killing lava lake boss results in EDR everywhere in lava lake boss zone (and no chest??)
     * x: -8,446.72
@@ -201,6 +198,10 @@ Fishing:
     * THEORY: We must have the sun quest crown? Is this royal knowledge?!?!?
 
 Done:
+
+* Under the worm boss in the Coal Pits is some scrawled text in the background behind the toxic rock:
+  * Do You See Musical stones in the sand?
+  * Probably refers to the hidden music note bosses in sand cave. We can see them with Kuulukivi.
 
 * Above the pillars is a note altar with:
   * A B C D
