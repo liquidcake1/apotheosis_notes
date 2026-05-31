@@ -159,6 +159,8 @@ Fishing:
 
 * Two chunks down from the spirits essence and then right is a "deathly chest" and portal (to Kolmi's holy mountain?).
 
+* A couple of chunks to the right of the music box is a strange apparent picture of a person with their arms up in the snow formation. ??????
+
 Done:
 
 * Parallel Worlds:
