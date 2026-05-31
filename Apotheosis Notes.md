@@ -135,6 +135,7 @@ Fishing:
   * Crystal key: No.
   * Tablet XIV: No.
   * The book from underneath: No.
+  * With some orbs (or maybe having travelled to a PW??) it gives the Learning Orb spell.
 
 * New material: Hell Nectar. Drinking is says "you feel your body growing uncontrollably. It's addictive. You should stop before it's too late."
 
