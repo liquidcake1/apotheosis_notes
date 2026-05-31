@@ -260,7 +260,7 @@ Done:
       niille, jotka eivät etsi totista tietämystä,
       vaan jumalallista. heidän ei sovi vaeltaa
       maihin, missä meidän suola ei ole.
-    * The deity rose from its egg and joined the company of the other gods. He imbued the creations of nature and technology with his favor.
+    * The deity rose from its egg and joined the company of the other gods. It imbued the creations of nature and technology with his favor.
       For those who seek not true knowledge, but the divine. It is not fitting for them to wander in lands where our salt is not found.
   * XIII: To gain true knowledge, one must remain pure and unintoxicated. (Virulent Caverns)  (Water)
     * jumaluus näki tietyt luomukset muita tärkeämpinä ja kieroutti luontoa avittaakseen suosikkejaan. niille, jotka eivät etsi totista tietämystä, vaan jumalallista. heidän täytyy tarjota loputtoman rikka uden lähdettä ja portti heää henkiin.
