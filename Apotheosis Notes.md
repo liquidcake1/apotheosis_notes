@@ -204,9 +204,15 @@ Fishing:
   * XIV: Attune with and home in on your goals (Attunium); Do so and your arrow shall move faster (Veloium). (Bottom of trench in west world.)
     * jumaluus rikkoi lait luonnon ja taikuuden, kääntäin heidän huomion jumaluuteenm kaaoksen keskellä jumaluus ei koskaan kääntänyt katsettaan suosikistaanm muiden huomaamatta, jumaluus lähestyi maailmaa ja antoi suosimalleen avaimenm lukko oli odottamassa ja maailma oli haavoittuvainen.
       The deity broke the laws of nature and magic, turning their attention to the deity. Amid the chaos, the deity never took their eyes off their favorite. Unnoticed by the others, the deity approached the world and gave their favorite a key. The lock was waiting, and the world was vulnerable.
+
+    * THEORY: Doing something with the above gives a key.
+
     * niille, jotka eivät etsi totista tietämystä, vaan jumalallistam heidän täutuu kantaa kuninkaallista tietoa oikeata taivaaseenastumista varten, muotonsa tuhon välttamiseksi
       For those who do not seek true knowledge, but instead deify their own notions, it is incumbent upon them to bear the royal knowledge necessary for true ascension to heaven, in order to avoid the destruction of their form
       for those who do not seek true knowledge, but the deitym they must bear royal knowledge for the true ascension, to avoid the destruction of their form
+
+    * THEORY: We must have the sun quest crown? Is this royal knowledge?!?!?
+
 Done:
 
 * Parallel Worlds:
