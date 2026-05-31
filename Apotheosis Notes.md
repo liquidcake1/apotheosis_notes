@@ -161,6 +161,47 @@ Fishing:
 
 * A couple of chunks to the right of the music box is a strange apparent picture of a person with their arms up in the snow formation. ??????
 
+* Reforged tablets:
+  * XI: Evolution is forever, changing. (Corrupted Mages.) (Red Sand)
+    *   Monen vuosisadan kujittua vesilintu palasi ja
+        Muni yhden munan.
+        Monta päivää ja yötä vierähti, ennen kuin
+        munasta kuoriutui jumaluus.
+        Niille, jotka eivät etsi totista tietämistä?
+        Vaan jumalallista. Heidään karruptio täytyy
+        olla jumalten puhdistama.
+    *   After many centuries, the waterfowl returned and
+        Laid one egg.
+        Many days and nights passed before
+        a divinity hatched from the egg. (CopiHuman: scrap "a")
+
+        For those who do not seek true knowledge?
+        But divine. Their corruption must
+        be purified by the gods.
+
+    * THEORY: We must purify our corruption. ??????
+
+  * XII: Bring your friends along when you travel.
+    * jumaluus nousi munastaan ja liittyi muiden      
+      jumalten seuraan. hän kyllästi luonnon ja       
+      teknologian luomukset mieltymyksellä.
+      
+      niille, jotka eivät etsi totista tietämystä,
+      vaan jumalallista. heidän ei sovi vaeltaa
+      maihin, missä meidän suola ei ole.
+    * The deity rose from its egg and joined the company of the other gods. It imbued the creations of nature and technology with its favor.
+      For those who seek not true knowledge, but the divine. It is not fitting for them to wander in lands where our salt is not found.
+
+  * XIII: To gain true knowledge, one must remain pure and unintoxicated. (Virulent Caverns)  (Water)
+    * jumaluus näki tietyt luomukset muita tärkeämpinä ja kieroutti luontoa avittaakseen suosikkejaan. niille, jotka eivät etsi totista tietämystä, vaan jumalallista. heidän täytyy tarjota loputtoman rikka uden lähdettä ja portti heää henkiin.
+    * The deity saw certain creatures as more important than others and twisted nature to benefit his favorites.
+      To those who seek not true knowledge, but divine. they must offer a source of infinite wealth and a gateway to the soul.
+  * XIV: Attune with and home in on your goals (Attunium); Do so and your arrow shall move faster (Veloium). (Bottom of trench in west world.)
+    * jumaluus rikkoi lait luonnon ja taikuuden, kääntäin heidän huomion jumaluuteenm kaaoksen keskellä jumaluus ei koskaan kääntänyt katsettaan suosikistaanm muiden huomaamatta, jumaluus lähestyi maailmaa ja antoi suosimalleen avaimenm lukko oli odottamassa ja maailma oli haavoittuvainen.
+      The deity broke the laws of nature and magic, turning their attention to the deity. Amid the chaos, the deity never took their eyes off their favorite. Unnoticed by the others, the deity approached the world and gave their favorite a key. The lock was waiting, and the world was vulnerable.
+    * niille, jotka eivät etsi totista tietämystä, vaan jumalallistam heidän täutuu kantaa kuninkaallista tietoa oikeata taivaaseenastumista varten, muotonsa tuhon välttamiseksi
+      For those who do not seek true knowledge, but instead deify their own notions, it is incumbent upon them to bear the royal knowledge necessary for true ascension to heaven, in order to avoid the destruction of their form
+      for those who do not seek true knowledge, but the deitym they must bear royal knowledge for the true ascension, to avoid the destruction of their form
 Done:
 
 * Parallel Worlds:
@@ -235,40 +276,3 @@ Done:
   * Attunium: Add homing
 
 * The coral chest is moved one chunk left and is now directly up from halfway down the right side of the pyramid, surrounded by cloudscape.
-
-* Reforged tablets:
-  * XI: Evolution is forever, changing. (Corrupted Mages.) (Red Sand)
-    *   Monen vuosisadan kujittua vesilintu palasi ja
-        Muni yhden munan.
-        Monta päivää ja yötä vierähti, ennen kuin
-        munasta kuoriutui jumaluus.
-        Niille, jotka eivät etsi totista tietämistä?
-        Vaan jumalallista. Heidään karruptio täytyy
-        olla jumalten puhdistama.
-    *   After many centuries, the waterfowl returned and
-        Laid one egg.
-        Many days and nights passed before
-        a divinity hatched from the egg. (CopiHuman: scrap "a")
-        For those who do not seek true knowledge?
-        But divine. Their corruption must
-        be purified by the gods.
-  * XII: Bring your friends along when you travel.
-    * jumaluus nousi munastaan ja liittyi muiden      
-      jumalten seuraan. hän kyllästi luonnon ja       
-      teknologian luomukset mieltymyksellä.
-      
-      niille, jotka eivät etsi totista tietämystä,
-      vaan jumalallista. heidän ei sovi vaeltaa
-      maihin, missä meidän suola ei ole.
-    * The deity rose from its egg and joined the company of the other gods. It imbued the creations of nature and technology with its favor.
-      For those who seek not true knowledge, but the divine. It is not fitting for them to wander in lands where our salt is not found.
-  * XIII: To gain true knowledge, one must remain pure and unintoxicated. (Virulent Caverns)  (Water)
-    * jumaluus näki tietyt luomukset muita tärkeämpinä ja kieroutti luontoa avittaakseen suosikkejaan. niille, jotka eivät etsi totista tietämystä, vaan jumalallista. heidän täytyy tarjota loputtoman rikka uden lähdettä ja portti heää henkiin.
-    * The deity saw certain creatures as more important than others and twisted nature to benefit his favorites.
-      To those who seek not true knowledge, but divine. they must offer a source of infinite wealth and a gateway to the soul.
-  * XIV: Attune with and home in on your goals (Attunium); Do so and your arrow shall move faster (Veloium). (Bottom of trench in west world.)
-    * jumaluus rikkoi lait luonnon ja taikuuden, kääntäin heidän huomion jumaluuteenm kaaoksen keskellä jumaluus ei koskaan kääntänyt katsettaan suosikistaanm muiden huomaamatta, jumaluus lähestyi maailmaa ja antoi suosimalleen avaimenm lukko oli odottamassa ja maailma oli haavoittuvainen.
-      The deity broke the laws of nature and magic, turning their attention to the deity. Amid the chaos, the deity never took their eyes off their favorite. Unnoticed by the others, the deity approached the world and gave their favorite a key. The lock was waiting, and the world was vulnerable.
-    * niille, jotka eivät etsi totista tietämystä, vaan jumalallistam heidän täutuu kantaa kuninkaallista tietoa oikeata taivaaseenastumista varten, muotonsa tuhon välttamiseksi
-      For those who do not seek true knowledge, but instead deify their own notions, it is incumbent upon them to bear the royal knowledge necessary for true ascension to heaven, in order to avoid the destruction of their form
-      for those who do not seek true knowledge, but the deitym they must bear royal knowledge for the true ascension, to avoid the destruction of their form
