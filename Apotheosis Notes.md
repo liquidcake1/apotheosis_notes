@@ -179,7 +179,7 @@ Fishing:
         But divine. Their corruption must
         be purified by the gods.
 
-    * THEORY: We must purify our corruption. ??????
+    * THEORY: We must purify our corruption. Something something KORRUPTOITUNUTKIVI??????
 
   * XII: Bring your friends along when you travel.
     * jumaluus nousi munastaan ja liittyi muiden      
