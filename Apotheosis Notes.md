@@ -216,7 +216,6 @@ Done:
   * Bouncing Burst -> with Death Trigger
   * CoV <-> CoV (nothing)
 
-
 * Parallel Worlds:
   * There is a layer of Cursed Rock.
   * Then a layer of Cursed Liquid.
