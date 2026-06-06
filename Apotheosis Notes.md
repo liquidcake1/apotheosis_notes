@@ -1,4 +1,11 @@
-In seed 811209641, soil+water+coal(???) gave Magic Catalyst, which seems to be a type of Concentrated Mana.
+In seed 811209641, soil+water+coal(???) gave Magic Catalyst, which seems to be a type of Concentrated Mana. It doesn't react with:
+* Rotten meat
+* Blood
+* Lava
+* Magical Liquid
+* Copper
+* Steel
+* Ground
 
 * There is a grave right of the pond. There are books.
   * Day 7: The author is looking for a red fish with name beginning H...
