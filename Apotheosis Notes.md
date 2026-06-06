@@ -14,6 +14,9 @@ It DOES react with Soarium to make Magus Elixir!
 
 
 * TODO: Get gold. Get more perks. (Reroll is 204K right now.) Want: Saving Grave, Repulsion, Shield, ???
+  * TK Kick clam chest.
+  * Kill boss.
+  * Do stuff.
 
 * There is a grave right of the pond. There are books.
   * Day 7: The author is looking for a red fish with name beginning H...
