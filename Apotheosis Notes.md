@@ -6,6 +6,7 @@ In seed 811209641, soil+water+coal(???) gave Magic Catalyst, which seems to be a
 * Copper
 * Steel
 * Ground
+* Gold
 
 * There is a grave right of the pond. There are books.
   * Day 7: The author is looking for a red fish with name beginning H...
