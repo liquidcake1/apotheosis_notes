@@ -8,6 +8,8 @@ In seed 811209641, soil+water+coal(???) gave Magic Catalyst, which seems to be a
 * Ground
 * Gold
 It DOES react with Soarium to make Magus Elixir!
+* Magus Elixir spawns wands.
+* Eating it increases satiation.
 
 * There is a grave right of the pond. There are books.
   * Day 7: The author is looking for a red fish with name beginning H...
