@@ -217,6 +217,10 @@ Fishing:
     * THEORY: We must have the sun quest crown? Is this royal knowledge?!?!?
 
 * There are new giga worms in hell with 625,000 HP and projectile immunity.
+  * They disable all protective perks and healing for 20 seconds regularly.
+  * They create fire.
+  * They do insane bite damage.
+  * They may create explosions?!
 
 Done:
 
