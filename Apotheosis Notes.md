@@ -18,6 +18,11 @@ It DOES react with Soarium to make Magus Elixir!
   * Get orb that grows with us.
   * Kill boss.
   * Do stuff.
+  * Symbols:
+    * Centipede Blood
+    * Insect Husk
+    * Pink Sand
+    * Red Sand
 
 * There is a grave right of the pond. There are books.
   * Day 7: The author is looking for a red fish with name beginning H...
