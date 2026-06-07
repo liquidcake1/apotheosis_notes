@@ -224,6 +224,7 @@ Fishing:
   * They take very little projectile/explosion/electric damage.
   * They destroy penetrating shot projectiles (perhaps they have a physics body?).
   * They are not chunk loaders.
+  * They do not remove ambrosia. Probably. And it works. Probably.
 
 Done:
 
