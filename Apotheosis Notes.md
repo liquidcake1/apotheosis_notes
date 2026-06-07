@@ -131,7 +131,7 @@ Fishing:
       the hottest fires, the strongest stone, the most electrified matter.
       consider this home turned forsaken tomb your w?rning to never try stealing our gifts again
       Lest you seek further punishment..
-  * Placing elemental stones onto the altar gives immunity perks. (Or Edit Wands Anywhere, or Telekinetic Kick or Breathless, or All Seeing Eye for sun seed, including cooked.)
+  * Placing elemental stones onto the altar gives immunity perks. (Or Wdwadwdands Anywhere, or Telekinetic Kick or Breathless, or All Seeing Eye for sun seed, including cooked.)
     * Reforged tablet: Nope.
     * Runestone (Alchemy): Nope.
   * To the right of the altar and a little above is a floating red particle aura against an impassable wall (ie. not EDR). Following around this wall, we find a room full of infectious blood potions, and finally a room with the KORRUPTOITUNUTKIVI(???). It does not exist in parallel worlds. (But everything else does.)
