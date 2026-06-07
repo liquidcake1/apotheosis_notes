@@ -221,6 +221,8 @@ Fishing:
   * They create fire.
   * They do insane bite damage.
   * They may create explosions?!
+  * They take very little projectile/explosion/electric damage.
+  * They destroy penetrating shot projectiles (perhaps they have a physics body?).
 
 Done:
 
