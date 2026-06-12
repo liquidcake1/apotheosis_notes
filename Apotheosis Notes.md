@@ -149,6 +149,14 @@ Fishing:
 
 * A couple of chunks to the right of the music box is a strange apparent picture of a person with their arms up in the snow formation. ??????
 
+* In Meditation Cube:
+  * BOOK OF KINGS
+    I once met a king from a faraway land.
+    His knowledge was vast and endless.
+    Yet despite his power, he still couldn't attain one thing.
+    He wished in his last moments to be reunited with the furthest true knowledge in this world.
+
+
 * Reforged tablets:
   * XI: Evolution is forever, changing. (Corrupted Mages.) (Red Sand)
     *   Monen vuosisadan kujittua vesilintu palasi ja
