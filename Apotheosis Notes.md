@@ -1,18 +1,3 @@
-In seed 811209641, soil+water+coal(???) gave Magic Catalyst, which seems to be a type of Concentrated Mana. It doesn't react with:
-* Rotten meat
-* Blood
-* Lava
-* Magical Liquid
-* Copper
-* Steel
-* Ground
-* Gold
-It DOES react with Soarium to make Magus Elixir!
-* Magus Elixir spawns wands.
-* Eating it gives mana regen.
-
-
-
 * TODO: Get gold. Get more perks. (Reroll is 204K right now.) Want: Saving Grave, Repulsion, Shield, ???
   * TK Kick clam chest.
   * Get orb that grows with us.
@@ -339,3 +324,16 @@ Done:
   * Attunium: Add homing
 
 * The coral chest is moved one chunk left and is now directly up from halfway down the right side of the pyramid, surrounded by cloudscape.
+
+* In seed 811209641, soil+water+coal(???) gave Magic Catalyst, which seems to be a type of Concentrated Mana. It doesn't react with:
+  * Rotten meat
+  * Blood
+  * Lava
+  * Magical Liquid
+  * Copper
+  * Steel
+  * Ground
+  * Gold
+* It DOES react with Soarium to make Magus Elixir!
+  * Magus Elixir spawns wands.
+  * Eating it gives mana regen.
