@@ -201,6 +201,10 @@ Fishing:
 
     * THEORY: We must have the sun quest crown? Is this royal knowledge?!?!?
 
+  * A message from beyond (carried by player ghost):
+
+    * To those who seek knowledge not true, but divine. One should stand at the altar alone.
+
 * There are new giga worms in hell with 625,000 HP and projectile immunity.
   * They disable all protective perks and healing for 20 seconds regularly.
   * They create fire.
