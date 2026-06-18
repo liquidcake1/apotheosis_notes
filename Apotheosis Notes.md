@@ -323,7 +323,7 @@ Done:
   * At the (very deep) bottom is a new orb with Transmute into Mutamies on Slimy Enemies.
   * On the right is the Contaminated Outpost with a mini boss guarding a broken spell, which repairs into Conjure Roll of Divine Purification.
 
-* Tiny is bigger (60k HP?) and now drops:
+* Tiny is bigger and now drops:
   * Cleansing Bolt
   * Circle of Trueform.
 
