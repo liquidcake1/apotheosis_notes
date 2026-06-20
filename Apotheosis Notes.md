@@ -9,6 +9,8 @@
     * Pink Sand
     * Red Sand
 
+CURRENT RUN: There is a berserk mage on the bottom right of Temple of the Art.
+
 * There is a grave right of the pond. There are books.
   * Day 7: The author is looking for a red fish with name beginning H...
   * Day 297: The red fish is real.
