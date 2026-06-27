@@ -235,7 +235,7 @@ Done:
     * D# D# E E (Invisibilium)
   * Water stones seem to be able to naturally spawn here.
   * Clam Chests spawn here. (And give pearls, which seem to just be pink gold.)
-    * These can be sacrificed at the Mountain Altar.
+    * These can be sacrificed at the Mountain Altar. Which spawns fish and clam chests.
 
 * Under the worm boss in the Coal Pits is some scrawled text in the background behind the toxic rock:
   * Do You See Musical stones in the sand?
