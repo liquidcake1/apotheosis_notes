@@ -1,4 +1,4 @@
-* TODO: Get gold. Get more perks. (Reroll is 204K right now.) Want: Saving Grave, Repulsion, Shield, ???
+* TODO: Get gold. Get more perks.  Want: Saving Grave, Repulsion, Shield, ???
   * Get orb that grows with us.
   * Kill boss.
   * Do stuff.
