@@ -1,5 +1,4 @@
 * TODO: Get gold. Get more perks. (Reroll is 204K right now.) Want: Saving Grave, Repulsion, Shield, ???
-  * TK Kick clam chest.
   * Get orb that grows with us.
   * Kill boss.
   * Do stuff.
