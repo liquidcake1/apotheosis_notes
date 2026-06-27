@@ -102,10 +102,6 @@ Fishing:
 
 * TODO: Sacrifice a clam chest at the mountain altar.
 
-* Under the earth essence is the runic text "GENEROUS?" and a Koditonhiisi, though a_bob claimed they had a Varashiisi.
-  * abob says the the Koditonhiisi translates to "homeless hiisi" and Varashiisi translates to "thief hiisi".
-  * Giving him gold returns 3 spells and he becomes a "rich hiisi" and becomes aggressive.
-
 * Under the gold room, there is a small cave with the Runestone of Alchemy. Which I promptly lost without discovering its purpose.
   * It causes local fungal shifts.
 
@@ -224,6 +220,10 @@ Fishing:
   * They do not remove ambrosia. Probably. And it works. Probably.
 
 Done:
+
+* Under the earth essence is the runic text "GENEROUS?" and a Koditonhiisi, though a_bob claimed they had a Varashiisi.
+  * abob says the the Koditonhiisi translates to "homeless hiisi" and Varashiisi translates to "thief hiisi".
+  * Giving him gold returns 3 spells and he becomes a "rich hiisi" and becomes aggressive.
 
 * At the bottom of the lake, west of leviathan, there is the Sunken Cavern.
   * There are two scary new mages here:
