@@ -31,7 +31,7 @@
 * To the right of the Dragon Cave, rather than Levi portal room there was some muddy abyss, with ant lair above and lava core up-right.
   * Killing an ant in the middle of the ant lair dropped a full health regen. The ant did not appear special.
   * The lava core is full of worm blood instead of lava...?
-  * Under the lava core is the normal abyss meat realm. Where is the levi portal room!??!
+  * Under the lava core is the normal abyss meat realm. Where is the levi portal room (it's East of the Jungle HM).
 
 * Under the lava lake boss portal room, there's a second room with an urn, and the runic text "Find The Symbols".
   * Putting the Kuulokivi into the urn does nothing.
