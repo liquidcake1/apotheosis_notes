@@ -47,10 +47,6 @@
       The circle is pierced by the line, and is ready to change shape.
       With this symbol, the pinkest sand will be born.
 
-* Adding a Volcanic Egg to a nest in Snowy sends us to Lava Mines(?).
-  * There is a blank "pill" wand puzzle with a diamond in it and some lava at the bottom.
-    It takes lava and drops a wand (Korttipakka "Deck of Cards") with AC Wand Refresh
-
 * To the right of the Watchtower there is a new chasm full of super mages. At the bottom left ish is a Sinkhole tunnel to a mage den like area with an altar, which when we hold Kuulukivi shows:
   * B A2 F E
   * G D# A E
@@ -219,6 +215,10 @@ Fishing:
   * They do not remove ambrosia. Probably. And it works. Probably.
 
 Done:
+
+* Adding a Volcanic Egg to a nest in Snowy sends us to Lava Mines(?).
+  * There is a blank "pill" wand puzzle with a diamond in it and some lava at the bottom.
+    It takes lava and drops a wand (Korttipakka "Deck of Cards") with AC Wand Refresh
 
 * Under the earth essence is the runic text "GENEROUS?" and a Koditonhiisi, though a_bob claimed they had a Varashiisi.
   * abob says the the Koditonhiisi translates to "homeless hiisi" and Varashiisi translates to "thief hiisi".
