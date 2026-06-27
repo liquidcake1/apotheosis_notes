@@ -9,8 +9,6 @@
     * Pink Sand
     * Red Sand
 
-Current run: Berserk mage near middle bottom of tower.
-
 * There is a grave right of the pond. There are books.
   * Day 7: The author is looking for a red fish with name beginning H...
   * Day 297: The red fish is real.
@@ -237,6 +235,7 @@ Done:
     * D# D# E E (Invisibilium)
   * Water stones seem to be able to naturally spawn here.
   * Clam Chests spawn here. (And give pearls, which seem to just be pink gold.)
+    * These can be sacrificed at the Mountain Altar.
 
 * Under the worm boss in the Coal Pits is some scrawled text in the background behind the toxic rock:
   * Do You See Musical stones in the sand?
