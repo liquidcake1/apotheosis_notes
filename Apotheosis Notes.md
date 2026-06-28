@@ -1,3 +1,17 @@
+Backseating/spoilers principle:
+* Backseating is OK.
+* Spoilers are not.
+* What's the difference?
+  * If it's in vanilla Noita, it's not a spoiler. I have played so much and read so much that if I don't know it, I should. Let rip.
+  * If you _know_ the answer to a puzzle, and are telling me it or even hinting me at it, it's a spoiler. Even just asking question like "have you killed the lava lake boss?" tells me that there is a lava lake boss if I didn't already know. READ BELOW.
+  * If you _know_ and think I've skipped the answer (so will never find it), ask first.
+  * If you _think_ you know and I don't (eg. you have an idea), ask first.
+  * When I've explored an area and missed some bit out, it's fine to tell me "you didn't go in the top right of that area" or just "you didn't explore all of that".
+  * Similarly if I'm trying something with every item/every spell, it's perfectly OK to say "you missed one".
+  * If you _don't_ know and you just want me to fire a nuke, just tell me to fire the damn nuke. Maybe I will.
+* It's generally assumed that if you're watching, you're happy to have _everything in this document_ spoiled, though I'll sometimes ask if you're new.
+* Basically I want the feel of working through problems together, not the feel of being taught the answer.
+
 * TODO: Get gold. Get more perks.  Want: Saving Grave, Repulsion, Shield, ???
   * Get orb that grows with us.
   * Kill boss.
