@@ -21,7 +21,7 @@ TODOs
   * Get Learning Orb.
   * Kill corrupted zone boss and get his stone.
   * Do stuff.
-  * Symbols for urn:
+  * Symbols for urn (fill it?):
     * Centipede Blood
     * Insect Husk
     * Pink Sand
