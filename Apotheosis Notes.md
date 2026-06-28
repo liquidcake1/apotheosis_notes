@@ -533,3 +533,5 @@ Bugs
 * Portalium tends to despawn things when portaling over long distances.
 
 * Toxic worm has despawned several times on us.
+
+* 20260628 -- the lava boss did not die on 0HP after many learning orbs blasted it.
