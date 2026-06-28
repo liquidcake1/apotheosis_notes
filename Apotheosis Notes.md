@@ -24,7 +24,7 @@ General prep for exploring
 * Get more perks.  Want: Saving Grace, Repulsion, Shield, ???
 * Get Learning Orb.
 * Get a bunch of orbs. (Possible spoiler from chat: Maybe 11 is important? How would we know this, though? Let's stick to 10 for now...)
-* Kill lava lake boss and get his portal spells.
+* Kill lava lake boss and get its portal spells.
 * Trade in elemental stones for immunities.
 
 New things to do
@@ -37,6 +37,8 @@ New things to do
   * Insect Husk
   * Pink Sand
   * Red Sand
+
+* Get a berserk mage to the rat wand cave.
 
 Unfinished
 ==========
