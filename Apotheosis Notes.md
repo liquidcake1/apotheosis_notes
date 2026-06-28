@@ -189,11 +189,20 @@ Hell Nectar
   * Egg hatches, spawning giga hell worms.
   * We die: "Hatching, while polymorphed to Egg 3 20 -33"
 
+Deathly Chest
+-------------
+
 * Two chunks down from the spirits essence and then right is a "deathly chest" and portal (to Kolmi's holy mountain?).
   * It contains Omega Death Cross.
   * How were we meant to get here???
 
+Weird Snow
+----------
+
 * A couple of chunks to the right of the music box is a strange apparent picture of a person with their arms up in the snow formation. ??????
+
+BOOK OF KINGS
+-------------
 
 * In Meditation Cube:
   * BOOK OF KINGS
@@ -202,6 +211,10 @@ Hell Nectar
     Yet despite his power, he still couldn't attain one thing.
     He wished in his last moments to be reunited with the furthest true knowledge in this world.
 
+Reforged Tablets
+----------------
+
+(abob hinted us that we should do the thing from base game.)
 
 * Reforged tablets:
   * XI: Evolution is forever, changing. (Corrupted Mages.) (Red Sand)
@@ -258,6 +271,9 @@ Hell Nectar
   * A message from beyond (carried by player ghost):
 
     * To those who seek knowledge not true, but divine. One should stand at the altar alone.
+
+Huge Worms
+----------
 
 * There are new giga worms in hell with 625,000 HP and projectile immunity.
   * They disable all protective perks and healing for 20 seconds regularly.
