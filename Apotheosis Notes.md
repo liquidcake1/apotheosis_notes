@@ -10,7 +10,7 @@ Backseating/spoilers principle:
   * Similarly if I'm trying something with every item/every spell, it's perfectly OK to say "you missed one".
   * If you _don't_ know and you just want me to fire a nuke, just tell me to fire the damn nuke. Maybe I will.
 * It's generally assumed that if you're watching, you're happy to have _everything in this document_ spoiled, though I'll sometimes ask if you're new.
-* Basically I want the feel of working through problems together, not the feel of being taught the answer.
+* Basically I want the feel of "working through problems together", not the feel of "being taught the answer".
 
 * TODO: Get gold. Get more perks.  Want: Saving Grave, Repulsion, Shield, ???
   * Get orb that grows with us.
