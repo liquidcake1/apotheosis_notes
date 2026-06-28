@@ -91,7 +91,7 @@ Lava Lake Boss Portal Room
 Potatogeddon Extra
 ------------------
 
-* On the right of the Vault there's a new boss. The boss here drops some of(?):
+* On the right of the Vault there's a new giant blob boss.
   * The boss has 2 stone tablets saying:
     * Half a circle and a spine connected to it
       Three legs on each side, and the centipede's inner liquid is born
