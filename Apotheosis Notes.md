@@ -1,4 +1,4 @@
-Backseating/spoilers principle:
+Backseating/spoilers principles:
 * Backseating is OK.
 * Spoilers are not.
 * What's the difference?
