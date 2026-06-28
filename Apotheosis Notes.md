@@ -334,6 +334,9 @@ Done (hopefully!)
   * There is a "Volcanic Chest"
     * It drops Summon Blue Portal, Summon Green Portal and Summon Red Portal. These are waypoint portals.
 
+Potatogeddon
+------------
+
 * On the right of the Vault there's a new boss. The boss here drops some of(?):
   * SPELL: Split Shot
   * SPELL: Mass Drunk
@@ -341,6 +344,9 @@ Done (hopefully!)
   * SPELL: Mass Polymorph
   * SPELL: Mass Fire
   * UNLOCK: Mass ... I guess?
+
+Sandy Assembly boss
+-------------------
 
 * To the left of Sand Cave below Overgrown Caverns is "Sandy Assembly". Here there is a boss which is made visible by bringing out Kuulukivi. On death, it drops:
   * Ghostly Vision perk. Taking this perk drops two tablets (see above).
@@ -350,23 +356,37 @@ Done (hopefully!)
   * Musical Strike spell.
   * Reverberation spell.
 
+Virulent Caverns
+----------------
+
 * To the right of Power Plant is a toxic area, the Virulent Caverns. It has enemies with many thousand of HP and Noxious Sludge which reacts with Infected Blood to make more Infected Blood, but water to make more Noxious Sludge.
   * At the (very deep) bottom is a new orb with Transmute into Mutamies on Slimy Enemies.
   * On the right is the Contaminated Outpost with a mini boss guarding a broken spell, which repairs into Conjure Roll of Divine Purification.
+
+Tiny
+----
 
 * Tiny is bigger and now drops:
   * Cleansing Bolt
   * Circle of Trueform.
 
+Coral Chest
+-----------
+
+The coral chest is moved one chunk left and is now directly up from halfway down the right side of the pyramid, surrounded by cloudscape.
+
+Orbs
+----
+
 * There is an orb West of the lake down a mostly empty abyss. This is Magic Inebriation, which we already found in the Virulent Caverns(?).
 
-* New materials:
-  * Soarium: Fly foreve
-  * Portalium: Teleport Rideshare
-  * Red Sand: Eating it swaps creatures
-  * Attunium: Add homing
+New materials
+-------------
 
-* The coral chest is moved one chunk left and is now directly up from halfway down the right side of the pyramid, surrounded by cloudscape.
+* Soarium: Fly foreve
+* Portalium: Teleport Rideshare
+* Red Sand: Eating it swaps creatures
+* Attunium: Add homing
 
 Magic Catalyst
 --------------
