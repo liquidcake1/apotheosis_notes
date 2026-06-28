@@ -180,6 +180,9 @@ Other things tried first:
 * Tablet XIV: No.
 * The book from underneath: No.
 
+Hell Nectar
+-----------
+
 * New material: Hell Nectar. Drinking is says "you feel your body growing uncontrollably. It's addictive. You should stop before it's too late."
   * After about 300s of the status, you polymorph to egg.
   * Egg says things about "my flesh is now yours".
