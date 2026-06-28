@@ -348,7 +348,10 @@ Lava Mines
   * Casting plasma beam cross on it did some damage and then showed an implication that it gained 100,000 HP.
   * Continually pumping damage kills it and spawns a greater treasure chest.
 
-* To the right of Coal Pits is a worm boss similar to the Dragon. It gives toxic immunity when eaten and unlocks ??
+Toxic Worm
+----------
+
+* To the right of Coal Pits is a worm boss similar to the Dragon. It gives toxic immunity when eaten and unlocks/drops Fungal Shift and Materia Conversion.
 
 Lava Mines
 ----------
