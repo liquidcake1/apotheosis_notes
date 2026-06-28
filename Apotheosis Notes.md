@@ -315,9 +315,8 @@ Lava Mines
   * Do You See Musical stones in the sand?
   * Probably refers to the hidden music note bosses in sand cave. We can see them with Kuulukivi.
 
-* Above the pillars is a note altar with:
-  * A B C D
-  * A D E G (Summons cats)
+Materia Conversion
+------------------
 
 * In the Dragon Cave is a book which implies "materia conversion" can be used on spells as well as the expected solid matter.
 * In the hourglass room, there is a book. It says "Conversion", and asks to remember the words:
@@ -339,12 +338,17 @@ Lava Mines
   * Bouncing Burst -> with Death Trigger
   * CoV <-> CoV (nothing)
 
-* Parallel Worlds:
-  * There is a layer of Cursed Rock.
-  * Then a layer of Cursed Liquid.
-  * Then more Cursed Rock.
+Parallel Worlds
+---------------
 
-* On the overworld left of the lake is a smakk stone post which takes damage and appears to have a picture of a plasma beam orbit on it.
+* There is a layer of Cursed Rock.
+* Then a layer of Cursed Liquid.
+* Then more Cursed Rock.
+
+Plasma Post
+-----------
+
+* On the overworld left of the lake is a small stone post which takes damage and appears to have a picture of a plasma beam orbit on it.
   * Casting plasma beam cross on it did some damage and then showed an implication that it gained 100,000 HP.
   * Continually pumping damage kills it and spawns a greater treasure chest.
 
@@ -398,6 +402,10 @@ Notes
 * Adding a Volcanic Egg to a nest in Snowy sends us to Lava Mines(?).
   * On the right of Lava Mines there is a pedestal with a picture of a note on it.
     * Holding Kuulukivi here shows "D E A D". Playing the notes from either music wand drops a full health regen.
+
+* Above the pillars is a note altar with:
+  * A B C D
+  * A D E G (Summons cats)
 
 Lava Lake Boss
 --------------
