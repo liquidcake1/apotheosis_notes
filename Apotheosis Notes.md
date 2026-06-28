@@ -33,10 +33,10 @@ New things to do
 * Kill corrupted zone boss and get his stone.
 
 * Symbols for urn (fill it?):
-  * Centipede Blood
-  * Insect Husk
-  * Pink Sand
-  * Red Sand
+  * Centipede Blood (first)
+  * Insect Husk (third)
+  * Red Sand (middle)
+  * Pink Sand (absent)
 
 * Get a berserk mage to the rat wand cave.
 
