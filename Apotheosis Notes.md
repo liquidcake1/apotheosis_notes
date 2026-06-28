@@ -18,7 +18,7 @@ TODOs
 =====
 
 * Get gold. Get more perks.  Want: Saving Grave, Repulsion, Shield, ???
-  * Get orb that grows with us.
+  * Get Learning Orb.
   * Kill boss.
   * Do stuff.
   * Symbols:
