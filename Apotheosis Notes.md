@@ -350,16 +350,23 @@ Lava Mines
 
 * To the right of Coal Pits is a worm boss similar to the Dragon. It gives toxic immunity when eaten and unlocks ??
 
+Lava Mines
+----------
+
 * Adding a Volcanic Egg to a nest in Snowy sends us to Lava Mines(?).
-  * On the right of Lava Mines there is a pedestal with a picture of a note on it.
-    * Holding Kuulukivi here shows "D E A D". Playing the notes from either music wand drops a full health regen.
   * To the right of Lava Mines, is the Ant Nest which on the right has a book requesting to turn copper into levitatium. (Using Flum.) Gives:
     * SPELL: Whiskey (material)
     * SPELL: Slime (material)
     * Some potions.
   * Lava Mines has powerful enemies which drop "add always cast" spells.
 
+Hiisi Shop
+----------
+
 * Next to the Hiisi Shop is a Kiuaskivi.
+
+New stuff in Meat Realm abyss
+-----------------------------
 
 * To the right of the Dragon Cave, there was some muddy abyss, with ant lair above and lava core up-right.
   * Killing an ant in the middle of the ant lair dropped a full health regen. The ant did not appear special.
