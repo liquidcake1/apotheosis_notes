@@ -1,4 +1,6 @@
-Backseating/spoilers principles:
+Backseating/spoilers principles
+===============================
+
 * Backseating is OK.
 * Spoilers are not.
 * What's the difference?
@@ -12,7 +14,10 @@ Backseating/spoilers principles:
 * It's generally assumed that if you're watching, you're happy to have _everything in this document_ spoiled, though I'll sometimes ask if you're new.
 * Basically I want the feel of "working through problems together", not the feel of "being taught the answer".
 
-* TODO: Get gold. Get more perks.  Want: Saving Grave, Repulsion, Shield, ???
+TODOs
+=====
+
+* Get gold. Get more perks.  Want: Saving Grave, Repulsion, Shield, ???
   * Get orb that grows with us.
   * Kill boss.
   * Do stuff.
@@ -21,6 +26,9 @@ Backseating/spoilers principles:
     * Insect Husk
     * Pink Sand
     * Red Sand
+
+Unfinished
+==========
 
 * There is a grave right of the pond. There are books.
   * Day 7: The author is looking for a red fish with name beginning H...
@@ -109,8 +117,6 @@ Fishing:
 * The rod cannot be reforged. Probably.
 * TODO: Investigate again under grave now we found fishing rod?
 
-* TODO: Sacrifice a clam chest at the mountain altar.
-
 * Under the gold room, there is a small cave with the Runestone of Alchemy. Which I promptly lost without discovering its purpose.
   * It causes local fungal shifts.
 
@@ -128,11 +134,6 @@ Fishing:
   * Stealing this summons a boss. This killed the Mina.
     * It appears to summon many, many corrupt masters, steal wands, chase fairly relentlessly, respawn at the player if the player continues to hold the KORRUPTOITUNUTKIVI, has a tonne of health and a tonne of projectile resistance. (Also probably electricity immunity?)
   * There is an orb room to the top left of where the boss is / above the anvil.
-
-* Bugs:
-  * Exploring a lot before killing lava lake boss results in EDR everywhere in lava lake boss zone (and no chest??)
-    * x: -8,446.72
-      y: 16,659
 
 * On the surface, to the left of the Orb chasm is a book which asks us to "prove we hold knowledge". Above is a thingy which asks to "impart your wisdom into the spell". Using it gives a brief shock and little else (for now). Items tried:
   * Potion of water: No.
@@ -228,7 +229,8 @@ Fishing:
   * They are not chunk loaders.
   * They do not remove ambrosia. Probably. And it works. Probably.
 
-Done:
+Done (hopefully!)
+=================
 
 * Adding a Volcanic Egg to a nest in Snowy sends us to Lava Mines(?).
   * There is a blank "pill" wand puzzle with a diamond in it and some lava at the bottom.
@@ -363,3 +365,11 @@ Done:
 * It DOES react with Soarium to make Magus Elixir!
   * Magus Elixir spawns wands.
   * Eating it gives mana regen.
+
+Bugs
+====
+
+* Exploring a lot before killing lava lake boss results in EDR everywhere in lava lake boss zone (and no chest??)
+  * x: -8,446.72
+    y: 16,659
+
