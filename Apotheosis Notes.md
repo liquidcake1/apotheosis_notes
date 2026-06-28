@@ -135,16 +135,16 @@ Cats
 Tower Symbols
 -------------
 
-* At the bottom of The Tower is some background art with 6 squares and then a filled dot.
-  * In Coal Pits, there are 7 empty and one dot.
-  * In Snowy, there is 1 dot and 9 empty.
-  * In Hiisi, there are 5 empty, a dot and then one more empty.
-  * In Fungal, there is no pattern(?)
-  * In Jungle, there is 1 dot and 8 empty.
-  * In Vault, there are 8, dot, 2.
-  * In Temple of the Art, 1 dot 7.
-  * In Hell, no pattern(?).
-  * On right of wands was a suspiciously empty area with a tree.
+At the bottom of The Tower is some background art with 6 squares and then a filled dot.
+* In Coal Pits, there are 7 empty and one dot.
+* In Snowy, there is 1 dot and 9 empty.
+* In Hiisi, there are 5 empty, a dot and then one more empty.
+* In Fungal, there is no pattern(?)
+* In Jungle, there is 1 dot and 8 empty.
+* In Vault, there are 8, dot, 2.
+* In Temple of the Art, 1 dot 7.
+* In Hell, no pattern(?).
+* On right of wands was a suspiciously empty area with a tree.
 
 Anvil / THE STONES
 ------------------
