@@ -148,7 +148,8 @@ Cats
 Tower Symbols
 -------------
 
-At the bottom of The Tower is some background art with 6 squares and then a filled dot.
+At the bottom of The Tower is some background art with squares and dots.
+* In Mines, there are 6 squares and then a filled dot.
 * In Coal Pits, there are 7 empty and one dot.
 * In Snowy, there is 1 dot and 9 empty.
 * In Hiisi, there are 5 empty, a dot and then one more empty.
