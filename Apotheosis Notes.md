@@ -68,6 +68,8 @@ Notes
 
 * Play BBBB (Poem of Seville?)
 
+(There are more under "Done".)
+
 Misc zones
 ----------
 
