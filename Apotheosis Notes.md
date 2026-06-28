@@ -67,6 +67,7 @@ Notes
 -----
 
 * Play BBBB (Poem of Seville?)
+* Play ABCD (cats?)
 
 (There are more under "Done".)
 
