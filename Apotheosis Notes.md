@@ -30,6 +30,9 @@ TODOs
 Unfinished
 ==========
 
+Fishing
+-------
+
 * There is a grave right of the pond. There are books.
   * Day 7: The author is looking for a red fish with name beginning H...
   * Day 297: The red fish is real.
@@ -41,7 +44,18 @@ Unfinished
     Tales speak of the red fish coming to those who wait patiently at the water,
     but only if your palm holds the right blessing.
 
-* Then there is a structure with SLEEP written in glowing green runic text.
+Fishing:
+* Infectious Blood is blood.
+* Mimicium, Conc Mana, Unstable Poly, Pheromone, Berserkium, Attunium, Pure Light, Teleportatium and Healthium are water.
+* Lava gave a unique fish.
+* Oil gave a unique fish.
+* The rod cannot be reforged. Probably.
+* TODO: Investigate again under grave now we found fishing rod?
+
+SLEEP
+-----
+
+* There is a structure with SLEEP written in glowing green runic text in the desert.
 
 * On the tunnel from Snowy to Lava Lake is a rat wand next to a room with fireflies and a picture of an unknown mage. Under, there is a second room which is (currently) empty.
   * Portalium over a long distance-ish teleport seems to have a high chance of despawning entities. It _WAS_ possible to go from East Magical Temple to the Lava Lake Boss Portal Room, but not from there to the tunnel.
@@ -108,14 +122,6 @@ Unfinished
   * In Temple of the Art, 1 dot 7.
   * In Hell, no pattern(?).
   * On right of wands was a suspiciously empty area with a tree.
-
-Fishing:
-* Infectious Blood is blood.
-* Mimicium, Conc Mana, Unstable Poly, Pheromone, Berserkium, Attunium, Pure Light, Teleportatium and Healthium are water.
-* Lava gave a unique fish.
-* Oil gave a unique fish.
-* The rod cannot be reforged. Probably.
-* TODO: Investigate again under grave now we found fishing rod?
 
 * Under the gold room, there is a small cave with the Runestone of Alchemy. Which I promptly lost without discovering its purpose.
   * It causes local fungal shifts.
