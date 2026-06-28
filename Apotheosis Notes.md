@@ -446,7 +446,7 @@ Sandy Assembly boss
 
 * Under the worm boss in the Coal Pits is some scrawled text in the background behind the toxic rock:
   * Do You See Musical stones in the sand?
-  * Probably refers to the hidden music note bosses in sand cave. We can see them with Kuulukivi.
+  * Probably refers to the hidden music notes in sand cave, and hints at this boss. We can see them with Kuulukivi.
 
 * To the left of Sand Cave below Overgrown Caverns is "Sandy Assembly". Here there is a boss which is made visible by bringing out Kuulukivi. On death, it drops:
   * Ghostly Vision perk. Taking this perk drops two tablets (see above).
