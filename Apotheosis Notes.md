@@ -30,6 +30,7 @@ New things to do
 ----------------
 
 * Kill corrupted zone boss and get his stone.
+
 * Symbols for urn (fill it?):
   * Centipede Blood
   * Insect Husk
