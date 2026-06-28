@@ -34,8 +34,8 @@ New things to do
 
 * Symbols for urn (fill it?):
   * Centipede Blood (first)
-  * Insect Husk (third)
   * Red Sand (middle)
+  * Insect Husk (third)
   * Pink Sand (absent)
 
 * Get a berserk mage to the rat wand cave.
