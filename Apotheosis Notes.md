@@ -61,7 +61,7 @@ Fishing
 
 Fishing:
 * Infectious Blood is blood.
-* Mimicium, Conc Mana, Unstable Poly, Pheromone, Berserkium, Attunium, Pure Light, Teleportatium and Healthium are water.
+* Mimicium, Conc Mana, Unstable Poly, Pheromone, Berserkium, Attunium, Pure Light, Teleportatium, Healthium and Yggdrasil's Knowledge are water.
 * Lava gave a unique fish.
 * Oil gave a unique fish.
 * The rod cannot be reforged. Probably.
