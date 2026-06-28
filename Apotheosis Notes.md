@@ -296,9 +296,15 @@ Lava Mines
   * There is a blank "pill" wand puzzle with a diamond in it and some lava at the bottom.
     It takes lava and drops a wand (Korttipakka "Deck of Cards") with AC Wand Refresh
 
+Poor Hiisi
+----------
+
 * Under the earth essence is the runic text "GENEROUS?" and a Koditonhiisi, though a_bob claimed they had a Varashiisi.
   * abob says the the Koditonhiisi translates to "homeless hiisi" and Varashiisi translates to "thief hiisi".
   * Giving him gold returns 3 spells and he becomes a "rich hiisi" and becomes aggressive.
+
+Sunken Cavern
+-------------
 
 * At the bottom of the lake, west of leviathan, there is the Sunken Cavern.
   * There are two scary new mages here:
@@ -311,10 +317,6 @@ Lava Mines
   * Water stones seem to be able to naturally spawn here.
   * Clam Chests spawn here. (And give pearls, which seem to just be pink gold.)
     * These can be sacrificed at the Mountain Altar. Which spawns fish and clam chests.
-
-* Under the worm boss in the Coal Pits is some scrawled text in the background behind the toxic rock:
-  * Do You See Musical stones in the sand?
-  * Probably refers to the hidden music note bosses in sand cave. We can see them with Kuulukivi.
 
 Materia Conversion
 ------------------
@@ -441,6 +443,10 @@ Potatogeddon
 
 Sandy Assembly boss
 -------------------
+
+* Under the worm boss in the Coal Pits is some scrawled text in the background behind the toxic rock:
+  * Do You See Musical stones in the sand?
+  * Probably refers to the hidden music note bosses in sand cave. We can see them with Kuulukivi.
 
 * To the left of Sand Cave below Overgrown Caverns is "Sandy Assembly". Here there is a boss which is made visible by bringing out Kuulukivi. On death, it drops:
   * Ghostly Vision perk. Taking this perk drops two tablets (see above).
