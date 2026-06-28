@@ -100,9 +100,10 @@ Potatogeddon Extra
       The circle is pierced by the line, and is ready to change shape.
       With this symbol, the pinkest sand will be born.
 
-* To the left of Overgrown Caverns is a ??? Diamond with Essence of Fungus.
-  * The essence makes us fire Fungal Spore every few seconds.
-  * Removing it gives Sienenkivi, which converts sand to Mystery Fungus and blood to Red Sand.
+Essence of Fungus
+-----------------
+
+We should throw this into a sun...
 
 * To the left of Sand Cave below Overgrown Caverns is "Sandy Assembly". Here there is a boss which is made visible by bringing out Kuulukivi. On death, it drops:
   * Ghostly Vision perk. Taking this perk drops two tablets:
@@ -322,6 +323,14 @@ Done (hopefully!)
 * To the right of the Dragon Cave, there was some muddy abyss, with ant lair above and lava core up-right.
   * Killing an ant in the middle of the ant lair dropped a full health regen. The ant did not appear special.
   * The Leviathan portal room is just right of the new Vault blob boss.
+
+Essence of Fungus
+-----------------
+
+* To the left of Overgrown Caverns is a ??? Diamond with Essence of Fungus.
+  * The essence makes us fire Fungal Spore every few seconds.
+  * Removing it gives Sienenkivi, which converts sand to Mystery Fungus and blood to Red Sand.
+  * And gives Fungal Shift Immunity on the anvil.
 
 Notes
 -----
