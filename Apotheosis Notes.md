@@ -19,7 +19,7 @@ TODOs
 
 * Get gold. Get more perks.  Want: Saving Grave, Repulsion, Shield, ???
   * Get Learning Orb.
-  * Kill boss.
+  * Kill corrupted zone boss and get his stone.
   * Do stuff.
   * Symbols:
     * Centipede Blood
