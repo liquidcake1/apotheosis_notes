@@ -321,7 +321,10 @@ Done (hopefully!)
   * Killing an ant in the middle of the ant lair dropped a full health regen. The ant did not appear special.
   * The Leviathan portal room is just right of the new Vault blob boss.
 
-* On the right of the Vault there's a new boss with a book saying to throw a fiery stone into the deepest pit of lava in the mines. (This may be dangerous!!) 
+Lava Lake Boss
+--------------
+
+* On the right of the Vault there's a new boss (Potatogeddon below) with a book saying to throw a fiery stone into the deepest pit of lava in the mines. (This may be dangerous!!) 
   * This summons a boss with 12,000 HP, some kind of heal mechanic (either it's on fire which heals it, or it heals from projectile in some phase????)
   * Killing it drops gold, max HP up (and full heal?), and a portal to a portal room with 4 portals:
     * Notes -- ??? above Magical Temple, left of Snowy Depths
