@@ -288,6 +288,9 @@ Huge Worms
 Done (hopefully!)
 =================
 
+Lava Mines
+----------
+
 * Adding a Volcanic Egg to a nest in Snowy sends us to Lava Mines(?).
   * There is a blank "pill" wand puzzle with a diamond in it and some lava at the bottom.
     It takes lava and drops a wand (Korttipakka "Deck of Cards") with AC Wand Refresh
@@ -381,6 +384,10 @@ Notes
   * B A2 F E
   * G D# A E
   * Playing either of these drops a Silver pouch (also with Sand in it, but probably from the ground). (Probably from anywhere in the world?!)
+
+* Adding a Volcanic Egg to a nest in Snowy sends us to Lava Mines(?).
+  * On the right of Lava Mines there is a pedestal with a picture of a note on it.
+    * Holding Kuulukivi here shows "D E A D". Playing the notes from either music wand drops a full health regen.
 
 Lava Lake Boss
 --------------
