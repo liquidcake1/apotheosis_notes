@@ -317,7 +317,7 @@ Done (hopefully!)
 
 * Next to the Hiisi Shop is a Kiuaskivi.
 
-* To the right of the Dragon Cave, rather than Levi portal room there was some muddy abyss, with ant lair above and lava core up-right.
+* To the right of the Dragon Cave, there was some muddy abyss, with ant lair above and lava core up-right.
   * Killing an ant in the middle of the ant lair dropped a full health regen. The ant did not appear special.
   * The Leviathan portal room is just right of the new Vault blob boss.
 
