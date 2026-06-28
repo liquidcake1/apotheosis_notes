@@ -529,3 +529,6 @@ Bugs
   * x: -8,446.72
     y: 16,659
 
+* Portalium tends to despawn things when portaling over long distances.
+
+* Toxic worm has despawned several times on us.
