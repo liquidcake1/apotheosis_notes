@@ -436,6 +436,7 @@ Lava Lake Boss
     * The room is between the hell gold and Water Essence ??? room.
   * There is a "Volcanic Chest"
     * It drops Summon Blue Portal, Summon Green Portal and Summon Red Portal. These are waypoint portals.
+  * Its flesh grants lava immunity for a while.
 
 Runestone of Alchemy
 --------------------
