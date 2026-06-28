@@ -37,7 +37,7 @@ New things to do
   * Red Sand (middle)
   * Insect Husk (third)
   * Pink Sand (absent)
-* Mixing these gives Yggdrasil's Knowledge liquid, sufficient causes Orb to appear.
+* Mixing these gives Yggdrasil's Knowledge liquid, sufficient causes Orb to appear. Orb gives Knowledge of Kings spell, which permanently turns the cape slightly yellow?
 * Drinking Yggdrasil's Knowledge does nothing but fill the stomach.
 
 * Get a berserk mage to the rat wand cave.
