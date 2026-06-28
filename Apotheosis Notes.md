@@ -105,23 +105,34 @@ Essence of Fungus
 
 We should throw this into a sun...
 
-* To the left of Sand Cave below Overgrown Caverns is "Sandy Assembly". Here there is a boss which is made visible by bringing out Kuulukivi. On death, it drops:
-  * Ghostly Vision perk. Taking this perk drops two tablets:
-    * The left has a picture of a target over it and says (Hyonteisten Kuori):
-      * One triangle, and another facing the other way.
-        Draw a line to connect these two formations.
-        Start from the centre of the first and draw down until it pierces the second triangle.
-        From this symbol, the husk of insects is born.
-    * The right has a picture of two triangles (kinda like ??? formation) (Punainen Hiekka).
-      * Three lines. One horizontal, two more starting at the edges of the first line which converge upwards to touch each other at their ends.
-        Within this new shape, circles lay.
-        one. two. and three.
-        These three circles represent the specks of dust, and thus a blazing red powder is born.
-      * This symbol appears near the new "giant blob" boss.
+Note Boss
+---------
+
+Ghostly Vision causes two tablets to drop:
+* The left has a picture of a target over it and says (Hyonteisten Kuori):
+  * One triangle, and another facing the other way.
+    Draw a line to connect these two formations.
+    Start from the centre of the first and draw down until it pierces the second triangle.
+    From this symbol, the husk of insects is born.
+* The right has a picture of two triangles (kinda like ??? formation) (Punainen Hiekka).
+  * Three lines. One horizontal, two more starting at the edges of the first line which converge upwards to touch each other at their ends.
+    Within this new shape, circles lay.
+    one. two. and three.
+    These three circles represent the specks of dust, and thus a blazing red powder is born.
+  * This symbol appears near the new "giant blob" boss.
+
+Spells
+------
 
 * To test: Transmute into Mutamies on Slimy Enemies.
 
+Cats
+----
+
 * At the bottom of the Mines/Snowy tunnel is a book which implies someone's cats are scared of rats, but hate magical rats. "I can't brush away the feeling that they distance themselves with truly divine purpose."
+
+Tower Symbols
+-------------
 
 * The Tower:
   * At the bottom of The Tower is some background art with 6 squares and then a filled dot.
@@ -135,10 +146,10 @@ We should throw this into a sun...
   * In Hell, no pattern(?).
   * On right of wands was a suspiciously empty area with a tree.
 
-* Under the gold room, there is a small cave with the Runestone of Alchemy. Which I promptly lost without discovering its purpose.
-  * It causes local fungal shifts.
+Anvil / THE STONES
+------------------
 
-* Directly down from here in a sandcave was The Temple of Sacreligious Remains. At the bottom is an anvil with repeating runic text "THE STONES". Above the anvil is a framed picture of a stone(?) with a plus covering it/crossing it out and some implication of aura/explosion.
+* In The Temple of Sacreligious Remains, at the bottom is an anvil with repeating runic text "THE STONES". Above the anvil is a framed picture of a stone(?) with a plus covering it/crossing it out and some implication of aura/explosion.
   * Above this is the runic text:
     * ACCEPT Your Punishment All of You.
       To Create our gifts is sacrilege, no matter how furiously you forged away at the wettest waters.
@@ -357,6 +368,12 @@ Lava Lake Boss
     * The room is between the hell gold and Water Essence ??? room.
   * There is a "Volcanic Chest"
     * It drops Summon Blue Portal, Summon Green Portal and Summon Red Portal. These are waypoint portals.
+
+Runestone of Alchemy
+--------------------
+
+* Under the gold room, there is a small cave with the Runestone of Alchemy. Which I promptly lost without discovering its purpose.
+  * It causes local fungal shifts.
 
 Potatogeddon
 ------------
