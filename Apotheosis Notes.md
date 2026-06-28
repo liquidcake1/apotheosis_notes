@@ -17,15 +17,23 @@ Backseating/spoilers principles
 TODOs
 =====
 
-* Get gold. Get more perks.  Want: Saving Grave, Repulsion, Shield, ???
-  * Get Learning Orb.
-  * Kill corrupted zone boss and get his stone.
-  * Do stuff.
-  * Symbols for urn (fill it?):
-    * Centipede Blood
-    * Insect Husk
-    * Pink Sand
-    * Red Sand
+General prep for exploring
+--------------------------
+
+* Get gold.
+* Get more perks.  Want: Saving Grave, Repulsion, Shield, ???
+* Get Learning Orb.
+* Kill lava lake boss and get his portal spells.
+
+New things to do
+----------------
+
+* Kill corrupted zone boss and get his stone.
+* Symbols for urn (fill it?):
+  * Centipede Blood
+  * Insect Husk
+  * Pink Sand
+  * Red Sand
 
 Unfinished
 ==========
