@@ -66,9 +66,7 @@ Rat Wand / Berserk Mage quest?
 Notes
 -----
 
-* There is an ant lair to the left of Hiisi Base. At the left side is a pedestal with a note on it. When shown the note item, it shows:
-  * BBBB
-  * DDDD (Poem of Seville: Cast Delay/Recharge Time is reduced on all wands for 5 minutes)
+* Play BBBB (Poem of Seville?)
 
 Misc zones
 ----------
@@ -78,10 +76,18 @@ Misc zones
   * The lava core is full of worm blood instead of lava...?
   * Under the lava core is the normal abyss meat realm.
 
+Lava Lake Boss Portal Room
+--------------------------
+
+* Under the portals is a cauldron which has pictures of notes.
+  * There is text on the portal [note_cauldron.png]
 * Under the lava lake boss portal room, there's a second room with an urn, and the runic text "Find The Symbols".
   * Putting the Kuulokivi into the urn does nothing.
   * Putting Gamma into the urn does nothing.
   * Putting Silver in the urn while playing a tune from the super mage altar did nothing.
+
+Potatogeddon Extra
+------------------
 
 * On the right of the Vault there's a new boss. The boss here drops some of(?):
   * The boss has 2 stone tablets saying:
@@ -91,12 +97,6 @@ Misc zones
       Inside this triangle, near its peak, a circle sits.
       The circle is pierced by the line, and is ready to change shape.
       With this symbol, the pinkest sand will be born.
-
-* To the right of the Watchtower there is a new chasm full of super mages. At the bottom left ish is a Sinkhole tunnel to a mage den like area with an altar, which when we hold Kuulukivi shows:
-  * B A2 F E
-  * G D# A E
-  * Playing either of these drops a Silver pouch (also with Sand in it, but probably from the ground). (Probably from anywhere in the world?!)
-  * This area seems too big for just the one altar...
 
 * To the left of Overgrown Caverns is a ??? Diamond with Essence of Fungus.
   * The essence makes us fire Fungal Spore every few seconds.
@@ -321,6 +321,18 @@ Done (hopefully!)
   * Killing an ant in the middle of the ant lair dropped a full health regen. The ant did not appear special.
   * The Leviathan portal room is just right of the new Vault blob boss.
 
+Notes
+-----
+
+* There is an ant lair to the left of Hiisi Base. At the left side is a pedestal with a note on it. When shown the note item, it shows:
+  * BBBB
+  * DDDD (Poem of Seville: Cast Delay/Recharge Time is reduced on all wands for 5 minutes)
+
+* To the right of the Watchtower there is a new chasm full of super mages. At the bottom left ish is a Sinkhole tunnel to a mage den like area with an altar, which when we hold Kuulukivi shows:
+  * B A2 F E
+  * G D# A E
+  * Playing either of these drops a Silver pouch (also with Sand in it, but probably from the ground). (Probably from anywhere in the world?!)
+
 Lava Lake Boss
 --------------
 
@@ -332,8 +344,6 @@ Lava Lake Boss
     * Tower? -- Tower Portal, left of Temple of the Art
     * Egg -- Dragon Cave
     * The room is between the hell gold and Water Essence ??? room.
-  * Under the portals is a cauldron which has pictures of notes.
-    * There is text on the portal (note_cauldron.png)
   * There is a "Volcanic Chest"
     * It drops Summon Blue Portal, Summon Green Portal and Summon Red Portal. These are waypoint portals.
 
