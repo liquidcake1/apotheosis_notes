@@ -57,17 +57,26 @@ SLEEP
 
 * There is a structure with SLEEP written in glowing green runic text in the desert.
 
+Rat Wand / Berserk Mage quest?
+------------------------------
+
 * On the tunnel from Snowy to Lava Lake is a rat wand next to a room with fireflies and a picture of an unknown mage. Under, there is a second room which is (currently) empty.
   * Portalium over a long distance-ish teleport seems to have a high chance of despawning entities. It _WAS_ possible to go from East Magical Temple to the Lava Lake Boss Portal Room, but not from there to the tunnel.
+
+Notes
+-----
 
 * There is an ant lair to the left of Hiisi Base. At the left side is a pedestal with a note on it. When shown the note item, it shows:
   * BBBB
   * DDDD (Poem of Seville: Cast Delay/Recharge Time is reduced on all wands for 5 minutes)
 
+Misc zones
+----------
+
 * To the right of the Dragon Cave, rather than Levi portal room there was some muddy abyss, with ant lair above and lava core up-right.
   * Killing an ant in the middle of the ant lair dropped a full health regen. The ant did not appear special.
   * The lava core is full of worm blood instead of lava...?
-  * Under the lava core is the normal abyss meat realm. Where is the levi portal room (it's East of the Jungle HM).
+  * Under the lava core is the normal abyss meat realm.
 
 * Under the lava lake boss portal room, there's a second room with an urn, and the runic text "Find The Symbols".
   * Putting the Kuulokivi into the urn does nothing.
