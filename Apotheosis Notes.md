@@ -167,13 +167,18 @@ KORRUPTOITUNUTKIVI
 * Stealing this summons a boss. This killed the Mina.
   * It appears to summon many, many corrupt masters, steal wands, chase fairly relentlessly, respawn at the player if the player continues to hold the KORRUPTOITUNUTKIVI, has a tonne of health and a tonne of projectile resistance. (Also probably electricity immunity?)
 
+Learning Orb
+------------
+
 * On the surface, to the left of the Orb chasm is a book which asks us to "prove we hold knowledge". Above is a thingy which asks to "impart your wisdom into the spell". Using it gives a brief shock and little else (for now). Items tried:
-  * Potion of water: No.
-  * Edit stone: No.
-  * Crystal key: No.
-  * Tablet XIV: No.
-  * The book from underneath: No.
   * With some orbs (or maybe having travelled to a PW??) it gives the Learning Orb spell.
+
+Other things tried first:
+* Potion of water: No.
+* Edit stone: No.
+* Crystal key: No.
+* Tablet XIV: No.
+* The book from underneath: No.
 
 * New material: Hell Nectar. Drinking is says "you feel your body growing uncontrollably. It's addictive. You should stop before it's too late."
   * After about 300s of the status, you polymorph to egg.
