@@ -159,10 +159,13 @@ Anvil / THE STONES
   * Placing elemental stones onto the altar gives immunity perks. (Or Tinker with Wands Anywhere, or Telekinetic Kick or Breathless, or All Seeing Eye for sun seed, including cooked.)
     * Reforged tablet: Nope.
     * Runestone (Alchemy): Nope.
-  * To the right of the altar and a little above is a floating red particle aura against an impassable wall (ie. not EDR). Following around this wall, we find a room full of infectious blood potions, and finally a room with the KORRUPTOITUNUTKIVI(???). It does not exist in parallel worlds. (But everything else does.)
-  * Stealing this summons a boss. This killed the Mina.
-    * It appears to summon many, many corrupt masters, steal wands, chase fairly relentlessly, respawn at the player if the player continues to hold the KORRUPTOITUNUTKIVI, has a tonne of health and a tonne of projectile resistance. (Also probably electricity immunity?)
-  * There is an orb room to the top left of where the boss is / above the anvil.
+
+KORRUPTOITUNUTKIVI
+------------------
+
+* To the right of the altar and a little above is a floating red particle aura against an impassable wall (ie. not EDR). Following around this wall, we find a room full of infectious blood potions, and finally a room with the KORRUPTOITUNUTKIVI(???). It does not exist in parallel worlds. (But everything else does.)
+* Stealing this summons a boss. This killed the Mina.
+  * It appears to summon many, many corrupt masters, steal wands, chase fairly relentlessly, respawn at the player if the player continues to hold the KORRUPTOITUNUTKIVI, has a tonne of health and a tonne of projectile resistance. (Also probably electricity immunity?)
 
 * On the surface, to the left of the Orb chasm is a book which asks us to "prove we hold knowledge". Above is a thingy which asks to "impart your wisdom into the spell". Using it gives a brief shock and little else (for now). Items tried:
   * Potion of water: No.
@@ -420,6 +423,7 @@ Orbs
 ----
 
 * There is an orb West of the lake down a mostly empty abyss. This is Magic Inebriation, which we already found in the Virulent Caverns(?).
+* There is an orb room above the anvil in the Temple of Sacreligious Remains.
 
 New materials
 -------------
