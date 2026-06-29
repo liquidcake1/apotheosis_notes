@@ -169,6 +169,8 @@ At the bottom of The Tower is some background art with squares and dots.
 * In Hell, no pattern(?).
 * On right of wands was a suspiciously empty area with a tree.
 
+Just casting an 8 slot wand with a spell in the 8th slot did not cause anything to happen. Even Materia Conversion did nothing; many "round" spells were tried.
+
 Anvil / THE STONES
 ------------------
 
