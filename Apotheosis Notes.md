@@ -139,8 +139,8 @@ Failures:
 * Putting Gamma into the urn does nothing.
 * Putting Silver in the urn while playing a tune from the super mage altar did nothing.
 
-Potatogeddon Extra
-------------------
+Potatogeddon Boss Extra
+-----------------------
 
 * On the right of the Vault there's a new giant blob boss.
   * The boss has 2 stone tablets saying:
@@ -150,11 +150,6 @@ Potatogeddon Extra
       Inside this triangle, near its peak, a circle sits.
       The circle is pierced by the line, and is ready to change shape.
       With this symbol, the pinkest sand will be born.
-
-Essence of Fungus
------------------
-
-We should throw this into a sun...
 
 Note Boss
 ---------
@@ -171,6 +166,11 @@ Ghostly Vision causes two tablets to drop:
     one. two. and three.
     These three circles represent the specks of dust, and thus a blazing red powder is born.
   * This symbol appears near the new "giant blob" boss.
+
+Essence of Fungus
+-----------------
+
+We should throw this into a sun...
 
 Spells
 ------
