@@ -34,6 +34,10 @@ New things to do
 
 * Kill corrupted zone boss and don't sacrifice its stone. It got all moody when we traded it in...
 
+* Plan to fix streamer's lack of ability in fight:
+  * Use portal wand. Prep a portal as boss spawns, let loose a volley and portal out.
+  * Repeat until boss ceases to exist.
+
 Thoughts on Main-line Quest (Ascension?)
 ----------------------------------------
 
