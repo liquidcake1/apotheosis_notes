@@ -139,34 +139,6 @@ Failures:
 * Putting Gamma into the urn does nothing.
 * Putting Silver in the urn while playing a tune from the super mage altar did nothing.
 
-Potatogeddon Boss Extra
------------------------
-
-* On the right of the Vault there's a new giant blob boss.
-  * The boss has 2 stone tablets saying:
-    * Half a circle and a spine connected to it
-      Three legs on each side, and the centipede's inner liquid is born
-    * A triangle. Within this, create a line piercing through it's (sic) purpose.
-      Inside this triangle, near its peak, a circle sits.
-      The circle is pierced by the line, and is ready to change shape.
-      With this symbol, the pinkest sand will be born.
-
-Note Boss
----------
-
-Ghostly Vision causes two tablets to drop:
-* The left has a picture of a target over it and says (Hyonteisten Kuori):
-  * One triangle, and another facing the other way.
-    Draw a line to connect these two formations.
-    Start from the centre of the first and draw down until it pierces the second triangle.
-    From this symbol, the husk of insects is born.
-* The right has a picture of two triangles (kinda like ??? formation) (Punainen Hiekka).
-  * Three lines. One horizontal, two more starting at the edges of the first line which converge upwards to touch each other at their ends.
-    Within this new shape, circles lay.
-    one. two. and three.
-    These three circles represent the specks of dust, and thus a blazing red powder is born.
-  * This symbol appears near the new "giant blob" boss.
-
 Essence of Fungus
 -----------------
 
@@ -492,8 +464,16 @@ Potatogeddon
   * SPELL: Mass Fire
   * UNLOCK: Mass ... I guess?
 
-Sandy Assembly boss
--------------------
+The boss has 2 stone tablets. These are (well, the centipede one is) clues for the Urn:
+* Half a circle and a spine connected to it
+  Three legs on each side, and the centipede's inner liquid is born
+* A triangle. Within this, create a line piercing through it's (sic) purpose.
+  Inside this triangle, near its peak, a circle sits.
+  The circle is pierced by the line, and is ready to change shape.
+  With this symbol, the pinkest sand will be born.
+
+Sandy Assembly Boss / Note Boss
+-------------------------------
 
 * Under the worm boss in the Coal Pits is some scrawled text in the background behind the toxic rock:
   * "Do You See Musical stones in the sand?"
@@ -506,6 +486,19 @@ Sandy Assembly boss
   * Extra Max HP.
   * Musical Strike spell.
   * Reverberation spell.
+
+Ghostly Vision causes two tablets to drop. These are clues for the Urn:
+* The left has a picture of a target over it and says (Hyonteisten Kuori):
+  * One triangle, and another facing the other way.
+    Draw a line to connect these two formations.
+    Start from the centre of the first and draw down until it pierces the second triangle.
+    From this symbol, the husk of insects is born.
+* The right has a picture of two triangles (kinda like ??? formation) (Punainen Hiekka).
+  * Three lines. One horizontal, two more starting at the edges of the first line which converge upwards to touch each other at their ends.
+    Within this new shape, circles lay.
+    one. two. and three.
+    These three circles represent the specks of dust, and thus a blazing red powder is born.
+  * This symbol appears near the new "giant blob" boss.
 
 Virulent Caverns
 ----------------
