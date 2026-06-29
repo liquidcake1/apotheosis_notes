@@ -531,6 +531,13 @@ Magic Catalyst
   * Magus Elixir spawns wands.
   * Eating it gives mana regen.
 
+Yggdrasil's Knowledge
+---------------------
+
+Fill the Urn under the lava boss portal room to gain progress.
+
+Eating it/staining with it does apparently nothing.
+
 Leviathan portal room
 ---------------------
 
