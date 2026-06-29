@@ -23,7 +23,7 @@ General prep for exploring
 * Get gold.
 * Get more perks.  Want: Saving Grace, Repulsion, Shield, ???
 * (Get Learning Orb? It seems good but it doesn't seem to carry secondary damage types, at least not with 10 orbs, so might not be great against bosses.)
-* Get a bunch of orbs. (Possible spoiler from chat: Maybe 11 is important? How would we know this, though? Let's stick to 10 for now...)
+  * Get a bunch of orbs. (Possible spoiler from chat: Maybe 11 is important? How would we know this, though? Let's stick to 10 for now...)
 * Kill lava lake boss and get its portal spells.
 * Trade in elemental stones for immunities.
 
