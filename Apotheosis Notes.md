@@ -32,14 +32,6 @@ New things to do
 
 * Kill corrupted zone boss and get his stone.
 
-* Symbols for urn (fill it?):
-  * Centipede Blood (first)
-  * Red Sand (middle)
-  * Insect Husk (third)
-  * Pink Sand (absent)
-* Mixing these gives Yggdrasil's Knowledge liquid, sufficient causes Orb to appear. Orb gives Knowledge of Kings spell, which permanently turns the cape slightly yellow?
-* Drinking Yggdrasil's Knowledge does nothing but fill the stomach.
-
 * Get a berserk mage to the rat wand cave.
 
 Unfinished
@@ -99,10 +91,28 @@ Lava Lake Boss Portal Room
 
 * Under the portals is a cauldron which has pictures of notes.
   * There is text on the portal [note_cauldron.png]
-* Under the lava lake boss portal room, there's a second room with an urn, and the runic text "Find The Symbols".
-  * Putting the Kuulokivi into the urn does nothing.
-  * Putting Gamma into the urn does nothing.
-  * Putting Silver in the urn while playing a tune from the super mage altar did nothing.
+
+Portal Room Urn
+---------------
+
+Under the lava lake boss portal room, there's a second room with an urn, and the runic text "Find The Symbols".
+
+Symbols for urn come from killing the new bosses:
+* Centipede Blood (first)
+* Red Sand (middle)
+* Insect Husk (third)
+* Pink Sand (absent)
+
+Mixing these gives Yggdrasil's Knowledge liquid, sufficient in the urn causes Orb to appear.
+
+(Drinking Yggdrasil's Knowledge does nothing but fill the stomach.)
+
+Orb gives Knowledge of Kings spell, which permanently turns the cape slightly yellow? (Is this the Royal Knowledge?)
+
+Failures:
+* Putting the Kuulokivi into the urn does nothing.
+* Putting Gamma into the urn does nothing.
+* Putting Silver in the urn while playing a tune from the super mage altar did nothing.
 
 Potatogeddon Extra
 ------------------
