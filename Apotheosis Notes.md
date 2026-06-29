@@ -30,9 +30,15 @@ General prep for exploring
 New things to do
 ----------------
 
-* Kill corrupted zone boss and get his stone.
-
 * Get a berserk mage to the rat wand cave.
+
+Thoughts on main-line quest
+---------------------------
+
+* Kill corrupted zone boss and get his stone. (This might be how we purify our corruption, XI?)
+* Do not enter parallel worlds. (XII)
+* Obtain the Sampo. (This might be a "source of infinite wealth", XIII?)
+* Obtain the Knowledge of Kings. (XIV)
 
 Unfinished
 ==========
