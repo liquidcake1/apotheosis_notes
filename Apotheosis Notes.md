@@ -32,10 +32,12 @@ New things to do
 
 * Get a berserk mage to the rat wand cave.
 
-Thoughts on main-line quest
----------------------------
+* Kill corrupted zone boss and don't sacrifice its stone. It got all moody when we traded it in...
 
-* Kill corrupted zone boss and get his stone. (This might be how we purify our corruption, XI?)
+Thoughts on Main-line Quest (Ascension?)
+----------------------------------------
+
+* Kill corrupted zone boss and get its stone. (This might be how we purify our corruption, XI?)
 * Do not enter parallel worlds. (XII)
 * Obtain the Sampo. (This might be a "source of infinite wealth", XIII?) -- Hopefully this isn't "trigger greed ending"...
 * Obtain the Knowledge of Kings. (XIV)
