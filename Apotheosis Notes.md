@@ -46,6 +46,7 @@ New things to do
     * Use portal wand. Prep a portal as boss spawns, let loose a volley and portal out.
     * Wait until boss spawn is close.
     * Repeat until boss ceases to exist.
+  * Probably use a fast dig bolt wand as that worked for abob. Recoil useful? Crit useful.
 
 Thoughts on Main-line Quest (Ascension?)
 ----------------------------------------
