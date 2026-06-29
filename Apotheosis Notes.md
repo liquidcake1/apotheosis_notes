@@ -31,7 +31,6 @@ General prep for exploring
     * Electricity Immunity (Air Essence).
     * Breathless (Water Essence).
     * Tinker (MoM stone).
-  
 * (Get Learning Orb? It seems good but it doesn't seem to carry secondary damage types, at least not with 10 orbs, so might not be great against bosses.)
   * Get a bunch of orbs. (Possible spoiler from chat: Maybe 11 is important? How would we know this, though? Let's stick to 10 for now...)
 * Kill lava lake boss and get its portal spells.
@@ -43,11 +42,10 @@ New things to do
 * Get a berserk mage to the rat wand cave.
 
 * Kill corrupted zone boss and don't sacrifice its stone. It got all moody when we traded it in...
-
-* Plan to fix streamer's lack of ability in fight:
-  * Use portal wand. Prep a portal as boss spawns, let loose a volley and portal out.
-  * Wait until boss spawn is close.
-  * Repeat until boss ceases to exist.
+  * Plan to fix streamer's lack of ability in fight:
+    * Use portal wand. Prep a portal as boss spawns, let loose a volley and portal out.
+    * Wait until boss spawn is close.
+    * Repeat until boss ceases to exist.
 
 Thoughts on Main-line Quest (Ascension?)
 ----------------------------------------
