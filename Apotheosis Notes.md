@@ -40,6 +40,7 @@ New things to do
 ----------------
 
 * Get a berserk mage to the rat wand cave.
+  * We did this and it turned to stone and apparently nothing else happened????
 
 * Kill corrupted zone boss and don't sacrifice its stone. It got all moody when we traded it in...
   * Plan to fix streamer's lack of ability in fight:
