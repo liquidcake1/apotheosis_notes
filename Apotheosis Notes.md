@@ -48,6 +48,7 @@ New things to do
     * Wait until boss spawn is close.
     * Repeat until boss ceases to exist.
   * Probably use a fast dig bolt wand as that worked for abob. Recoil useful? Crit useful.
+  * We've done this, but not learned anything new yet...
 
 Thoughts on Main-line Quest (Ascension?)
 ----------------------------------------
