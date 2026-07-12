@@ -197,6 +197,8 @@ Anvil / THE STONES
     * Reforged tablet: Nope.
     * Runestone (Alchemy): Nope.
 
+There is also an apparent boss room marked "SEAL" (with some reflections). The boss says he was imprisoned here.
+
 KORRUPTOITUNUTKIVI
 ------------------
 
