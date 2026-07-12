@@ -53,11 +53,19 @@ New things to do
 Thoughts on Main-line Quest (Ascension?)
 ----------------------------------------
 
-* Kill corrupted zone boss and get its stone. (This might be how we purify our corruption, XI?)
-  * We _probably_ don't actually need to kill the boss if we keep running, but most likely we must do _something_ with the stone to "purify" it and perhaps the boss's eye will tell us.
-* Do not enter parallel worlds. (XII)
-* Obtain the Sampo. (This might be a "source of infinite wealth", XIII?) -- Hopefully this isn't "trigger greed ending"...
-* Obtain the Knowledge of Kings. (XIV)
+For those who do not seek true knowledge, but divine:
+* Their corruption must be purified by the gods. (XI)
+  * We can get a KORRUPTOITUNUTKIVI. How would it be our corruption? How would it be purified?
+* It is not fitting for them to wander in lands where our salt is not found. (XII)
+  * Seemingly obvious; do not enter a parallel world.
+* They must offer a source of infinite wealth and a gateway to the soul. (XIII)
+  * Infinite wealth:
+    * Sampo?
+    * Draught of Midas?
+  * Gateway to the soul:
+    * Drink Hell Nectar?
+* They must bear royal knowledge for the true ascension, to avoid the destruction of their form. (XIV)
+  * Obtain/cast the Knowledge of Kings? (The spell.)
 * Drink Hell Nectar.
 * ???
 * Profit?
