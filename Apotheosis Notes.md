@@ -56,6 +56,7 @@ Thoughts on Main-line Quest (Ascension?)
 For those who do not seek true knowledge, but divine:
 * Their corruption must be purified by the gods. (XI)
   * We can get a KORRUPTOITUNUTKIVI. How would it be _our_ corruption? How would it be purified?
+  * What if perks were corruptions? What if we need to remove them?
 * It is not fitting for them to wander in lands where our salt is not found. (XII)
   * Seemingly obvious; do not enter a parallel world.
 * They must offer a source of infinite wealth and a gateway to the soul. (XIII)
