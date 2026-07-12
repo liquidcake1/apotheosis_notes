@@ -55,7 +55,7 @@ Thoughts on Main-line Quest (Ascension?)
 
 For those who do not seek true knowledge, but divine:
 * Their corruption must be purified by the gods. (XI)
-  * We can get a KORRUPTOITUNUTKIVI. How would it be our corruption? How would it be purified?
+  * We can get a KORRUPTOITUNUTKIVI. How would it be _our_ corruption? How would it be purified?
 * It is not fitting for them to wander in lands where our salt is not found. (XII)
   * Seemingly obvious; do not enter a parallel world.
 * They must offer a source of infinite wealth and a gateway to the soul. (XIII)
@@ -64,11 +64,9 @@ For those who do not seek true knowledge, but divine:
     * Draught of Midas?
   * Gateway to the soul:
     * Drink Hell Nectar?
+  * Offer it where, though? How?
 * They must bear royal knowledge for the true ascension, to avoid the destruction of their form. (XIV)
   * Obtain/cast the Knowledge of Kings? (The spell.)
-* Drink Hell Nectar.
-* ???
-* Profit?
 
 Unfinished
 ==========
