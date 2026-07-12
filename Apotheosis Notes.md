@@ -50,6 +50,7 @@ New things to do
   * Probably use a fast dig bolt wand as that worked for abob. Recoil useful? Crit useful.
   * We've done this, but not learned anything new yet...
   * The pedestal above the infectious blood potions "likely still functions in forgery".
+  * The sacrilegious anvil is "his pride and joy".
 
 Thoughts on Main-line Quest (Ascension?)
 ----------------------------------------
