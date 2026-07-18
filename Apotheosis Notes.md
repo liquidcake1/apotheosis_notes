@@ -145,6 +145,7 @@ Mixing these gives Yggdrasil's Knowledge liquid, sufficient in the urn causes Or
 (Drinking Yggdrasil's Knowledge does nothing but fill the stomach.)
 
 Orb gives Knowledge of Kings spell, which permanently turns the cape slightly yellow? (Is this the Royal Knowledge?)
+* "The secrets of otherworldly knowledge have been revealed to you."
 
 Failures:
 * Putting the Kuulokivi into the urn does nothing.
