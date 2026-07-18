@@ -211,6 +211,7 @@ Learning Orb
 
 * On the surface, to the left of the Orb chasm is a book which asks us to "prove we hold knowledge". Above is a thingy which asks to "impart your wisdom into the spell". Using it gives a brief shock and little else (for now).
   * With some orbs (or maybe having travelled to a PW??) it gives the Learning Orb spell.
+    * The symbols on it seem random and don't correspond to any Noita symbols.
 
 Other things tried first:
 * Potion of water: No.
