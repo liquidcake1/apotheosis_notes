@@ -71,6 +71,11 @@ For those who do not seek true knowledge, but divine:
 * They must bear royal knowledge for the true ascension, to avoid the destruction of their form. (XIV)
   * Obtain/cast the Knowledge of Kings? (The spell.)
 
+* We've done one attempt. We got an ending but seem to have violated the first three rules, as we got three gust of air and one material.
+  * Perhaps we need to sacrifice the purified stone?
+  * Perhaps vertical PWs are PWs?
+  * Perhaps we somehow forgot the Sampo???
+
 Unfinished
 ==========
 
