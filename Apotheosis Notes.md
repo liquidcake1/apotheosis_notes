@@ -75,6 +75,7 @@ For those who do not seek true knowledge, but divine:
   * Perhaps we need to sacrifice the purified stone?
   * Perhaps vertical PWs are PWs?
   * Perhaps we somehow forgot the Sampo???
+  * We did Knowledge of Kings, I guess.
 
 Unfinished
 ==========
@@ -157,11 +158,6 @@ Failures:
 * Putting the Kuulokivi into the urn does nothing.
 * Putting Gamma into the urn does nothing.
 * Putting Silver in the urn while playing a tune from the super mage altar did nothing.
-
-Essence of Fungus
------------------
-
-We should throw this into a sun...
 
 Spells
 ------
@@ -334,6 +330,13 @@ Huge Worms
 
 Done (hopefully!)
 =================
+
+Essence of Fungus
+-----------------
+
+We should throw this into a sun...
+
+It seems to just make a Dark Sun.
 
 Lava Mines
 ----------
