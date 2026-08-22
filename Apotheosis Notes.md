@@ -77,6 +77,20 @@ For those who do not seek true knowledge, but divine:
   * Perhaps we somehow forgot the Sampo???
   * We did Knowledge of Kings, I guess.
 
+* We did a second attempt and got the same result.
+  * We did sacrifice the stone to get Divine Radar.
+  * We didn't go to heaven or hell, even the first tiers.
+  * We definitely took the sampo (it is needed for the gate?).
+  * We did _not_ cast Knowledge of Kings.
+
+* The end icons are:
+  * A snowflake.
+  * Magic, or perhaps wind?
+  * Cog and worm, perhaps technology?
+  * A feather (which drops water).
+
+* Awrious suggests that _carrying_ the Knowledge of Kings spell is necessary.
+
 Unfinished
 ==========
 
@@ -208,6 +222,7 @@ KORRUPTOITUNUTKIVI
 * To the right of the altar and a little above is a floating red particle aura against an impassable wall (ie. not EDR). Following around this wall, we find a room full of infectious blood potions, and finally a room with the KORRUPTOITUNUTKIVI(???). It does not exist in parallel worlds. (But everything else does.)
 * Stealing this summons a boss. This killed the Mina.
   * It appears to summon many, many corrupt masters, steal wands, chase fairly relentlessly, respawn at the player if the player continues to hold the KORRUPTOITUNUTKIVI, has a tonne of health and a tonne of projectile resistance. (Also probably electricity immunity?)
+  * The boss seems to have very high projectile resistance, but does seem to take the projectile curse.
 
 Learning Orb
 ------------
