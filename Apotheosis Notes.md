@@ -187,18 +187,18 @@ Tower Symbols
 -------------
 
 At the bottom of The Tower is some background art with squares and dots.
-* In Mines, there are 6 squares and then a filled dot.
-* In Coal Pits, there are 7 empty and one dot.
-* In Snowy, there is 1 dot and 9 empty.
-* In Hiisi, there are 5 empty, a dot and then one more empty.
+* In Mines, there are 6 squares and then a filled dot. (7/7)
+* In Coal Pits, there are 7 empty and one dot. (8/8)
+* In Snowy, there is 1 dot and 9 empty. (1/10)
+* In Hiisi, there are 5 empty, a dot and then one more empty. (6/7)
 * In Fungal, there is no pattern(?)
-* In Jungle, there is 1 dot and 8 empty.
-* In Vault, there are 8, dot, 2.
-* In Temple of the Art, 1 dot 7.
+* In Jungle, there is 1 dot and 8 empty. (1/9)
+* In Vault, there are 8, dot, 2. (9/11)
+* In Temple of the Art, 1 dot 7. (2/8)
 * In Hell, no pattern(?).
 * On right of wands was a suspiciously empty area with a tree.
 
-Just casting an 8 slot wand with a spell in the 8th slot did not cause anything to happen. Even Materia Conversion did nothing; many "round" spells were tried.
+These represent the Holy Mountain portal to enter to unlock Omega Death Cross.
 
 Anvil / THE STONES
 ------------------
