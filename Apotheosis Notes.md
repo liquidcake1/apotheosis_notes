@@ -58,6 +58,8 @@ SLEEP
 
 * There is a structure with SLEEP written in glowing green runic text in the desert.
 
+Starting the game with the player here grants a wand and a potion (of mimicium?).
+
 Berserk Mage quest?
 -------------------
 
