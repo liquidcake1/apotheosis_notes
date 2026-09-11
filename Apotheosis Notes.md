@@ -92,6 +92,8 @@ Cats
 
 * At the bottom of the Mines/Snowy tunnel is a book which implies someone's cats are scared of rats, but hate magical rats. "I can't brush away the feeling that they distance themselves with truly divine purpose."
 
+Presenting the rat wand to a cat gets you a cat wand, with Spells to Cats.
+
 Learning Orb
 ------------
 
