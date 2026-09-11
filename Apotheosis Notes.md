@@ -306,6 +306,8 @@ Reforged Tablets
 
     * To those who seek knowledge not true, but divine. One should stand at the altar alone.
 
+This stuff all relates to the main Apotheosis quest. See that section.
+
 Huge Worms
 ----------
 
