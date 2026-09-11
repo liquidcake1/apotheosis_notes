@@ -58,8 +58,8 @@ SLEEP
 
 * There is a structure with SLEEP written in glowing green runic text in the desert.
 
-Rat Wand / Berserk Mage quest?
-------------------------------
+Berserk Mage quest?
+-------------------
 
 * On the tunnel from Snowy to Lava Lake is a rat wand next to a room with fireflies and a picture of an unknown mage. Under, there is a second room which is (currently) empty.
   * Portalium over a long distance-ish teleport seems to have a high chance of despawning entities. It _WAS_ possible to go from East Magical Temple to the Lava Lake Boss Portal Room, but not from there to the tunnel.
@@ -92,7 +92,7 @@ Cats
 
 * At the bottom of the Mines/Snowy tunnel is a book which implies someone's cats are scared of rats, but hate magical rats. "I can't brush away the feeling that they distance themselves with truly divine purpose."
 
-Presenting the rat wand to a cat gets you a cat wand, with Spells to Cats.
+Presenting the rat wand to a cat gets you a cat wand, with Spells to Cats. (Strongly hinted from Wiki.)
 
 Learning Orb
 ------------
