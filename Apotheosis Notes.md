@@ -1,6 +1,8 @@
 Backseating/spoilers principles
 ===============================
 
+We're probably far enough in at this point that spoilers really aren't an issue. But here's what I originally wrote!
+
 * Backseating is OK.
 * Spoilers are not.
 * What's the difference?
@@ -17,79 +19,12 @@ Backseating/spoilers principles
 TODOs
 =====
 
-General prep for exploring
---------------------------
-
-* Get gold.
-* Get more perks.
-  * Probably need:
-    * Saving Grace.
-    * Repulsion (preferable) or Shield (either/both).
-  * Don't need:
-    * TK Kick (Earth Essence).
-    * Fire Immunity (Fire Essence).
-    * Electricity Immunity (Air Essence).
-    * Breathless (Water Essence).
-    * Tinker (MoM stone).
-* (Get Learning Orb? It seems good but it doesn't seem to carry secondary damage types, at least not with 10 orbs, so might not be great against bosses.)
-  * Get a bunch of orbs. (Possible spoiler from chat: Maybe 11 is important? How would we know this, though? Let's stick to 10 for now...)
-* Kill lava lake boss and get its portal spells.
-* Trade in elemental stones for immunities.
-
 New things to do
 ----------------
 
-* Get a berserk mage to the rat wand cave.
-  * We did this and it turned to stone and apparently nothing else happened????
+* Figure out the rat wand thing -- what did we unlock by bringing the mage here?
 
-* Kill corrupted zone boss and don't sacrifice its stone. It got all moody when we traded it in...
-  * Plan to fix streamer's lack of ability in fight:
-    * Use portal wand. Prep a portal as boss spawns, let loose a volley and portal out.
-    * Wait until boss spawn is close.
-    * Repeat until boss ceases to exist.
-  * Probably use a fast dig bolt wand as that worked for abob. Recoil useful? Crit useful.
-  * We've done this, but not learned anything new yet...
-  * The pedestal above the infectious blood potions "likely still functions in forgery".
-  * The sacrilegious anvil is "his pride and joy".
-
-Thoughts on Main-line Quest (Ascension?)
-----------------------------------------
-
-For those who do not seek true knowledge, but divine:
-* Their corruption must be purified by the gods. (XI)
-  * We can get a KORRUPTOITUNUTKIVI. How would it be _our_ corruption? How would it be purified?
-  * What if perks were corruptions? What if we need to remove them?
-* It is not fitting for them to wander in lands where our salt is not found. (XII)
-  * Seemingly obvious; do not enter a parallel world.
-* They must offer a source of infinite wealth and a gateway to the soul. (XIII)
-  * Infinite wealth:
-    * Sampo?
-    * Draught of Midas?
-  * Gateway to the soul:
-    * Drink Hell Nectar?
-  * Offer it where, though? How?
-* They must bear royal knowledge for the true ascension, to avoid the destruction of their form. (XIV)
-  * Obtain/cast the Knowledge of Kings? (The spell.)
-
-* We've done one attempt. We got an ending but seem to have violated the first three rules, as we got three gust of air and one material.
-  * Perhaps we need to sacrifice the purified stone?
-  * Perhaps vertical PWs are PWs?
-  * Perhaps we somehow forgot the Sampo???
-  * We did Knowledge of Kings, I guess.
-
-* We did a second attempt and got the same result.
-  * We did sacrifice the stone to get Divine Radar.
-  * We didn't go to heaven or hell, even the first tiers.
-  * We definitely took the sampo (it is needed for the gate?).
-  * We did _not_ cast Knowledge of Kings.
-
-* The end icons are:
-  * A snowflake.
-  * Magic, or perhaps wind?
-  * Cog and worm, perhaps technology?
-  * A feather (which drops water).
-
-* Awrious suggests that _carrying_ the Knowledge of Kings spell is necessary.
+* Do mainline quest but bring the Eye with us, so that we are not "alone".
 
 Unfinished
 ==========
@@ -116,6 +51,8 @@ Fishing:
 * The rod cannot be reforged. Probably.
 * TODO: Investigate again under grave now we found fishing rod?
 
+From looking at the map, we somehow missed that under the West extension orb is a new perk which levels up fishing.
+
 SLEEP
 -----
 
@@ -126,6 +63,8 @@ Rat Wand / Berserk Mage quest?
 
 * On the tunnel from Snowy to Lava Lake is a rat wand next to a room with fireflies and a picture of an unknown mage. Under, there is a second room which is (currently) empty.
   * Portalium over a long distance-ish teleport seems to have a high chance of despawning entities. It _WAS_ possible to go from East Magical Temple to the Lava Lake Boss Portal Room, but not from there to the tunnel.
+
+We got this done and the guy turned to stone and nothing else happened.
 
 Notes
 -----
@@ -143,36 +82,6 @@ Misc zones
   * The lava core is full of worm blood instead of lava...?
   * Under the lava core is the normal abyss meat realm.
 
-Lava Lake Boss Portal Room
---------------------------
-
-* Under the portals is a cauldron which has pictures of notes.
-  * There is text on the portal [note_cauldron.png]
-
-Portal Room Urn
----------------
-
-Under the lava lake boss portal room, there's a second room with an urn, and the runic text "Find The Symbols".
-
-Symbols for urn come from killing the new bosses:
-* Centipede Blood (first)
-* Red Sand (middle)
-* Insect Husk (third)
-* Pink Sand (absent)
-
-Mixing these gives Yggdrasil's Knowledge liquid, sufficient in the urn causes Orb to appear.
-
-(Drinking Yggdrasil's Knowledge does nothing but fill the stomach.)
-
-Orb gives Knowledge of Kings spell, which permanently turns the cape slightly yellow? (Is this the Royal Knowledge?)
-* "The secrets of otherworldly royalty have been revealed to you."
-* "You feel the secrets of otherworldly royalty have already been unleashed."
-
-Failures:
-* Putting the Kuulokivi into the urn does nothing.
-* Putting Gamma into the urn does nothing.
-* Putting Silver in the urn while playing a tune from the super mage altar did nothing.
-
 Spells
 ------
 
@@ -182,30 +91,6 @@ Cats
 ----
 
 * At the bottom of the Mines/Snowy tunnel is a book which implies someone's cats are scared of rats, but hate magical rats. "I can't brush away the feeling that they distance themselves with truly divine purpose."
-
-Anvil / THE STONES
-------------------
-
-* In The Temple of Sacreligious Remains, at the bottom is an anvil with repeating runic text "THE STONES". Above the anvil is a framed picture of a stone(?) with a plus covering it/crossing it out and some implication of aura/explosion.
-  * Above this is the runic text:
-    * ACCEPT Your Punishment All of You.
-      To Create our gifts is sacrilege, no matter how furiously you forged away at the wettest waters.
-      the hottest fires, the strongest stone, the most electrified matter.
-      consider this home turned forsaken tomb your w?rning to never try stealing our gifts again
-      Lest you seek further punishment..
-  * Placing elemental stones onto the altar gives immunity perks. (Or Tinker with Wands Anywhere, or Telekinetic Kick or Breathless, or All Seeing Eye for sun seed, including cooked.)
-    * Reforged tablet: Nope.
-    * Runestone (Alchemy): Nope.
-
-There is also an apparent boss room marked "SEAL" (with some reflections). The boss says he was imprisoned here. It's a chunk up and some distance left of the side zone where one finds the KORRUPTOITUNUTKIVI.
-
-KORRUPTOITUNUTKIVI
-------------------
-
-* To the right of the altar and a little above is a floating red particle aura against an impassable wall (ie. not EDR). Following around this wall, we find a room full of infectious blood potions, and finally a room with the KORRUPTOITUNUTKIVI(???). It does not exist in parallel worlds. (But everything else does.)
-* Stealing this summons a boss. This killed the Mina.
-  * It appears to summon many, many corrupt masters, steal wands, chase fairly relentlessly, respawn at the player if the player continues to hold the KORRUPTOITUNUTKIVI, has a tonne of health and a tonne of projectile resistance. (Also probably electricity immunity?)
-  * The boss seems to have very high projectile resistance, but does seem to take the projectile curse.
 
 Learning Orb
 ------------
@@ -244,6 +129,66 @@ BOOK OF KINGS
     His knowledge was vast and endless.
     Yet despite his power, he still couldn't attain one thing.
     He wished in his last moments to be reunited with the furthest true knowledge in this world.
+
+Huge Worms
+----------
+
+* There are new giga worms in hell with 625,000 HP and projectile immunity.
+  * They disable all protective perks and healing for 20 seconds regularly.
+  * They create fire.
+  * They do insane bite damage.
+  * They may create explosions?!
+  * They take very little projectile/explosion/electric damage.
+  * They destroy penetrating shot projectiles (perhaps they have a physics body?).
+  * They are not chunk loaders.
+  * They do not remove ambrosia. Probably. And it works. Probably.
+
+Done (hopefully!)
+=================
+
+Main-line Quest (Ascension?)
+----------------------------
+
+For those who do not seek true knowledge, but divine:
+* Their corruption must be purified by the gods. (XI)
+  * We can get a KORRUPTOITUNUTKIVI. How would it be _our_ corruption? How would it be purified?
+  * What if perks were corruptions? What if we need to remove them?
+  * We need the purified KORRUPTOITUNUTKIVI.
+* It is not fitting for them to wander in lands where our salt is not found. (XII)
+  * Seemingly obvious; do not enter a parallel world.
+* They must offer a source of infinite wealth and a gateway to the soul. (XIII)
+  * Infinite wealth:
+    * Sampo?
+    * Draught of Midas?
+  * Gateway to the soul:
+    * Drink Hell Nectar?
+  * Offer it where, though? How?
+  * It's the Sampo.
+* They must bear royal knowledge for the true ascension, to avoid the destruction of their form. (XIV)
+  * Obtain/cast the Knowledge of Kings? (The spell.)
+  * We must _carry_ the spell.
+* One should stand at the altar alone.
+  * We did this. What's "not alone"? The eye?
+
+* We've done one attempt. We got an ending but seem to have violated the first three rules, as we got three gust of air and one material.
+  * Perhaps we need to sacrifice the purified stone?
+  * Perhaps vertical PWs are PWs?
+  * Perhaps we somehow forgot the Sampo???
+  * We did Knowledge of Kings, I guess.
+
+* We did a second attempt and got the same result.
+  * We did sacrifice the stone to get Divine Radar.
+  * We didn't go to heaven or hell, even the first tiers.
+  * We definitely took the sampo (it is needed for the gate?).
+  * We did _not_ cast Knowledge of Kings.
+
+* The end icons are:
+  * A snowflake.
+  * Magic, or perhaps wind?
+  * Cog and worm, perhaps technology?
+  * A feather (which drops water).
+
+* Awrious suggests that _carrying_ the Knowledge of Kings spell is necessary. (This seems correct.)
 
 Reforged Tablets
 ----------------
@@ -308,21 +253,77 @@ Reforged Tablets
 
 This stuff all relates to the main Apotheosis quest. See that section.
 
-Huge Worms
-----------
+KORRUPTOITUNUTKIVI
+------------------
 
-* There are new giga worms in hell with 625,000 HP and projectile immunity.
-  * They disable all protective perks and healing for 20 seconds regularly.
-  * They create fire.
-  * They do insane bite damage.
-  * They may create explosions?!
-  * They take very little projectile/explosion/electric damage.
-  * They destroy penetrating shot projectiles (perhaps they have a physics body?).
-  * They are not chunk loaders.
-  * They do not remove ambrosia. Probably. And it works. Probably.
+* To the right of the altar and a little above is a floating red particle aura against an impassable wall (ie. not EDR). Following around this wall, we find a room full of infectious blood potions, and finally a room with the KORRUPTOITUNUTKIVI(???). It does not exist in parallel worlds. (But everything else does.)
+* Stealing this summons a boss. This killed the Mina.
+  * It appears to summon many, many corrupt masters, steal wands, chase fairly relentlessly, respawn at the player if the player continues to hold the KORRUPTOITUNUTKIVI, has a tonne of health and a tonne of projectile resistance. (Also probably electricity immunity?)
+  * The boss seems to have very high projectile resistance, but does seem to take the projectile curse.
 
-Done (hopefully!)
-=================
+* Sacrificing this on the mountain altar yields a Pure Stone.
+
+This is needed for the main quest. The boss _must_ be killed to sacrifice the stone on the altar.
+
+Lava Lake Boss Portal Room
+--------------------------
+
+* Under the portals is a cauldron which has pictures of notes.
+  * There is text on the portal [note_cauldron.png]
+
+Portal Room Urn
+---------------
+
+Under the lava lake boss portal room, there's a second room with an urn, and the runic text "Find The Symbols".
+
+Symbols for urn come from killing the new bosses:
+* Centipede Blood (first)
+* Red Sand (middle)
+* Insect Husk (third)
+* Pink Sand (absent)
+
+Mixing these gives Yggdrasil's Knowledge liquid, sufficient in the urn causes Orb to appear.
+
+(Drinking Yggdrasil's Knowledge does nothing but fill the stomach.)
+
+Orb gives Knowledge of Kings spell, which permanently turns the cape slightly yellow? (Is this the Royal Knowledge?)
+* "The secrets of otherworldly royalty have been revealed to you."
+* "You feel the secrets of otherworldly royalty have already been unleashed."
+
+Failures:
+* Putting the Kuulokivi into the urn does nothing.
+* Putting Gamma into the urn does nothing.
+* Putting Silver in the urn while playing a tune from the super mage altar did nothing.
+
+This relates to the main Apotheosis quest.
+
+Anvil / THE STONES
+------------------
+
+* In The Temple of Sacreligious Remains, at the bottom is an anvil with repeating runic text "THE STONES". Above the anvil is a framed picture of a stone(?) with a plus covering it/crossing it out and some implication of aura/explosion.
+  * Above this is the runic text:
+    * ACCEPT Your Punishment All of You.
+      To Create our gifts is sacrilege, no matter how furiously you forged away at the wettest waters.
+      the hottest fires, the strongest stone, the most electrified matter.
+      consider this home turned forsaken tomb your w?rning to never try stealing our gifts again
+      Lest you seek further punishment..
+  * Placing elemental stones onto the altar gives perks:
+    * MoM Stone: Tinker with Wands Anywhere
+    * Tannerkivi: Telekinetic Kick
+    * Water stone: Breathless
+    * Air stone: Lightning Immunity
+    * Fungus stone: Fungal Shift Immunity
+    * Kakkikarekivi: Drunkenness Immunity
+    * Fire stone: Fire Immunity
+    * Sun seed (and cooked): All Seeing Eye
+    * KORRUPTOITUNUTKIVI: More Blood
+    * Pure Stone: Divine Radar
+    * Reforged tablet: Nope.
+    * Runestone (Alchemy): Nope.
+
+There is also an apparent boss room marked "SEAL" (with some reflections). The boss says he was imprisoned here. It's a chunk up and some distance left of the side zone where one finds the KORRUPTOITUNUTKIVI.
+
+This is NOT necessary for the main quest.
 
 Tower Symbols
 -------------
@@ -347,6 +348,7 @@ Deathly Chest
 * Two chunks down from the spirits essence and then right is a "deathly chest" and portal (to Kolmi's holy mountain?).
   * It contains Omega Death Cross.
   * How were we meant to get here???
+  * Via the Tower symbols.
 
 Essence of Fungus
 -----------------
