@@ -53,12 +53,6 @@ Fishing:
 
 From looking at the map, we somehow missed that under the West extension orb is a new perk which levels up fishing.
 
-SLEEP
------
-
-* There is a structure with SLEEP written in glowing green runic text in the desert.
-
-Starting the game with the player here grants a wand and a potion (of mimicium?).
 
 Berserk Mage quest?
 -------------------
@@ -88,13 +82,6 @@ Spells
 ------
 
 * To test: Transmute into Mutamies on Slimy Enemies.
-
-Cats
-----
-
-* At the bottom of the Mines/Snowy tunnel is a book which implies someone's cats are scared of rats, but hate magical rats. "I can't brush away the feeling that they distance themselves with truly divine purpose."
-
-Presenting the rat wand to a cat gets you a cat wand, with Spells to Cats. (Strongly hinted from Wiki.)
 
 Learning Orb
 ------------
@@ -149,6 +136,20 @@ Huge Worms
 
 Done (hopefully!)
 =================
+
+Cats
+----
+
+* At the bottom of the Mines/Snowy tunnel is a book which implies someone's cats are scared of rats, but hate magical rats. "I can't brush away the feeling that they distance themselves with truly divine purpose."
+
+Presenting the rat wand to a cat gets you a cat wand, with Spells to Cats. (Strongly hinted from Wiki.)
+
+SLEEP
+-----
+
+* There is a structure with SLEEP written in glowing green runic text in the desert.
+
+Starting the game with the player here grants a wand and a potion (of mimicium?). (Thanks to kibblet for hints.)
 
 Main-line Quest (Ascension?)
 ----------------------------
