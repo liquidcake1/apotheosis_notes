@@ -33,7 +33,7 @@ Fishing
 -------
 
 * There is a grave right of the pond. There are books.
-  * Day 7: The author is looking for a red fish with name beginning H...
+  * Day 7: I've come here in search of the legendary Red Fish, I remember its name on the tip of my tongue.. / Something starting with H.. yet I can't recall it / No matter, I'll name it after myself after I become the first to discover it. Then I'll never forget its name again!
   * Day 297: Remember. The red fish is real. (x4) / The red fish is real / The red fish is reall / The red f
 * In the West-ish world, there is another grave. And the text:
   * The grand red fish is divine bait, only with it will one catch
