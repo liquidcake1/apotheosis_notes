@@ -34,7 +34,7 @@ Fishing
 
 * There is a grave right of the pond. There are books.
   * Day 7: The author is looking for a red fish with name beginning H...
-  * Day 297: The red fish is real.
+  * Day 297: Remember. The red fish is real. (x4) / The red fish is real / The red fish is reall / The red f
 * In the West-ish world, there is another grave. And the text:
   * The grand red fish is divine bait, only with it will one catch
     the grandest of beasts lying at the ocean's trench.
