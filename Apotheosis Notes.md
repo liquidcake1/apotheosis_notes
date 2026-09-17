@@ -43,6 +43,8 @@ Fishing
     Tales speak of the red fish coming to those who wait patiently at the water,
     but only if your palm holds the right blessing.
 
+Fishing in the small pond right of the mountain seems to get a red fish of level 2 when we take the fishing perk. We've not managed to get one to the lake without murdering it and it seems unclear how it would be in our "palm" anyway. No such luck in the lake.
+
 Fishing:
 * Infectious Blood is blood.
 * Mimicium, Conc Mana, Unstable Poly, Pheromone, Berserkium, Attunium, Pure Light, Teleportatium, Healthium and Yggdrasil's Knowledge are water.
