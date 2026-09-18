@@ -332,6 +332,17 @@ There is also an apparent boss room marked "SEAL" (with some reflections). The b
 
 This is NOT necessary for the main quest.
 
+Death
+-----
+
+To the right of the alchemy place with the materials under ant lair is a book, "Death":
+  Follow my exact path only. I detailed it in the land containing the diamond.
+  Only the uninitiated will bear usefulness to this knowledge to avoid corruption among our ranks,
+  so teach the right way to teleport only to those pure.
+  Those who have strayed from my pathway will not be rewarded with death.
+
+Clue to the below.
+
 Tower Symbols
 -------------
 
